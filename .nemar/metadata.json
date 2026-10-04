@@ -1,0 +1,99 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Federica Garro": {},
+    "Elisa Fenoglio": {},
+    "Ilaria Ceroni": {},
+    "Iryna Forsiuk": {},
+    "Michela Canepa": {},
+    "Marta Mozzon": {},
+    "Alessandro Bruschi": {},
+    "Fabio Zippo": {},
+    "Matteo Laffranchi": {},
+    "Lorenzo De Michieli": {},
+    "Stefano Buccelli": {},
+    "Michela Chiappalone": {},
+    "Marianna Semprini": {
+      "orcid": "0000-0001-5504-0251"
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-025-05042-4",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000322",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000322",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Istituto Nazionale Assicurazione Infortuni sul Lavoro (INAIL)",
+      "award_number": "PR19-RR-P2"
+    }
+  ],
+  "title": "NeBULA2025",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "9.06 GB (118 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".tsv",
+    ".yaml"
+  ],
+  "description": "NeBULA2025 is a high-density EEG (127 channels) and surface EMG dataset recorded from 39 healthy adults performing a standardized right-arm reaching task toward one of three illuminated targets. The task was performed under three robotic assistance levels (free, low, high). The dataset supports neuromechanical biomarker research for upper limb assessment and is distributed in BIDS format via MOABB.",
+  "methods_description": "Participants were seated and reached with the right arm toward a target when its light turned on, then returned the hand to the right leg. EEG was recorded at 1000 Hz with a Brain Products actiCHamp 128-channel active electrode system (reference FCz, ground Fpz), together with 11 EMG channels. Each subject completed 3 runs of about 10 trials per movement type, one run per assistance level.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "EMG"
+    },
+    {
+      "term": "motor execution"
+    },
+    {
+      "term": "reaching task"
+    },
+    {
+      "term": "upper limb"
+    },
+    {
+      "term": "biomarkers"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    }
+  ],
+  "source_hash": "7f5767ed7a47425b630eda4c3198ab4f2d94736d9da4d317b07a1e2392b62360"
+}
