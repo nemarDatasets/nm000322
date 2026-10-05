@@ -1,1 +1,717 @@
-../.git/annex/objects/pW/57/SHA256E-s21223--c74d66d71e5f37ac2ce12e84f486de1657f3db4f687f55bc0d0ff2c861977671.json/SHA256E-s21223--c74d66d71e5f37ac2ce12e84f486de1657f3db4f687f55bc0d0ff2c861977671.json
+{
+ "dataset": "nm000322",
+ "moabb_class": "NeBULA2025",
+ "moabb_version_used": "v1.7.1-11-g9c6b1cc",
+ "retrieved": "2026-10-05",
+ "retrieved_by": "moabb.datasets.NeBULA2025.data_path()",
+ "upstream_cache_root": "/voyager/ceph/groups/sdp190/bpinto/moabb-nemar/mne_data/NeBULA2025/MNE-nebula2025-data",
+ "license": "CC-BY-4.0",
+ "doi": "10.1038/s41597-025-05042-4",
+ "naming": "upstream_filenames_restored",
+ "n_files": 117,
+ "total_bytes": 365898,
+ "files": [
+  {
+   "file": "sub-01/eeg/sub-01_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "f163a10a1f2de31a729cd0d5ab3ea6d4a0a795b8670d495c470b7dda927b32d4",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "10e91df52bae4fa18b748acc65d4b34def32700ca70ce2a600eb5d645a28018e",
+   "subject": "1"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "c42ff82fc349c8a44cde2ff56f5ce1df5981053a7b1d338609790ba9fbb31276",
+   "subject": "1"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "7fa5ac78264247f579ee0bb0427085de0193aa4e41572e9a97c2ce67e94fd3f3",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "addcddef334f5b0468be94687cea53ed5b7c3b5b4f0cb1e8d7b27006c63c0dc2",
+   "subject": "2"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "6acca972e145f958650af855f40b56e23164c6bc972dee72b1e326f7231daadb",
+   "subject": "2"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "5926bfb4df1d5e0707bd526c5f3a086f5122c4bd187a593e58cf7e4e76e51a9c",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "2242f8d93a0c5ac8adbf2764da08993c3e65011601a3931d0fe152f94f447d07",
+   "subject": "3"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "b3fe2d8944c39990147dc56ad2105499c64292662780d2ebf71702cddd8d92a3",
+   "subject": "3"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "20ce27ec0ccdb85f692a84cedb31a1d31cc86bd1bb4fe20ada0fc7b853e4c024",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "79398ff2ad08fd18c5c2ac90348f70dcd6085da8d7765601acaa1e2005600a97",
+   "subject": "4"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "75f19eba8411366a23222398e233355af9e057479ab148f380d02aad122b275e",
+   "subject": "4"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "05db23418b2683d8fb7d4e989784971d4bd262405361a6a245a8fa1e28c0d137",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "838f911ac71137f4ca617f205cd5cd91b6224919e2641c392e282ecd2ef127e8",
+   "subject": "5"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "b4d39d024695e9bf040af54ce5ee6141096db406f32870bac6a5dbb6e3ea624b",
+   "subject": "5"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "d20fa58af9dd4b8da69f7a28e30650d202e6656978c2f9f677615cabc20996c2",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "527eb7daef59da173674a97d0dba036357a4e4c460438067edf14f542b7b4786",
+   "subject": "6"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "6ba272830905d43b33b4695eb05567a8e120d16a7bcaf6e36cb779ae9d59f239",
+   "subject": "6"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e11e2ec1b5b9b63caaadaebe35894355e5137bf85b5b892e0b30ae030aca075f",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "ed504d91bc493f51052a6ce6428692319ebb961e499693e2d141c0f4f81886bb",
+   "subject": "7"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "cd845f88b3681d3beffd1875215988a3c5b0989b9c689a2137e34de008b41c5b",
+   "subject": "7"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "ddb2d8844fd0b78660cf8065663c0bb0ab4059b841244ea9ff1c4abf0588afae",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "6cc966ae0b09c233280a2fbae2201eb197ebd87d80a4b600d3e056b3653742bb",
+   "subject": "8"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "18771d02a638f495381908790a0e3a218b05de7fb3e08912e96a98a68e3df8e5",
+   "subject": "8"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "9498f72e2a02973902434f16223f96e9b4ced7dce74428e8529771d4ad69b667",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "27db62d1cb78c355282a0771839228fea5940294df13b2871ea748abacc7b4ce",
+   "subject": "9"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "aa9d9cebc854cd9de5028d8857fec445820e911795dd64be13a131823ecc8052",
+   "subject": "9"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e0e43aedd11aeaec3dcac5d9f736798695604cd6b062540255b6709de5fa9282",
+   "subject": "10"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "8023cd5de8654aa6ddc07dcaae0036858511d1296bd8880c2ea29a33d137d929",
+   "subject": "10"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "a919afb1016d421a638c14f1ae091e4936fd9ebd162dac74f0243c12343a3256",
+   "subject": "10"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "34fe1ba0bc353beffb391ca687ceba7482c1671c3075ecb71231e8fab5a2c8e5",
+   "subject": "11"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "285d1c9740e042b8156fe5648de8bf5f3e37aa6c526b259a0c5ee281eace4f98",
+   "subject": "11"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "87795a78586f13b451dd08a2885cc03647061deda3fd8838a62768f4c0f6a2a3",
+   "subject": "11"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "b9a886e3528e1a9799ba1b17f994bf52b4bf602624e96cad134d0f92e6ef2d40",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "2dc54018ab5655143ef597902eaff68091069cdebd9c6a7e53354bd373bffa4d",
+   "subject": "12"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "5ce720e47cc176e91b035f31e42fa4b2416ae6046a0f5d2f41b41b4240f66214",
+   "subject": "12"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "cfc61b81ca474c921d6ef1c407dadf93330e78caf8239e6f8e3bcbe5ab74a492",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "52e2ebadb1cdd79651b855e477fdbb009b6e72b29092192b5ab5d04cc8e9b93a",
+   "subject": "13"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "e9b7163f42c91642d51edd4d95f5e5e6298bc4ca39d32e57512c3bfde7e2110c",
+   "subject": "13"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "1e7185c871985704e3f5974af36b31b66598954ead7b6749ee7775eec8cff803",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "89817a5dc6948c587643783c1034fd01005d3a85b8b62ba107e181c3e1a55faa",
+   "subject": "14"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "7a0e487903a36a2f53aed9a3df91f77b784ca80bbd5d93f4dd3f6240fd9fc128",
+   "subject": "14"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "0199dac7a3fbf0e4a5ef098a91d627ad6983c2a2f2dd06e3aa5dc226c76a3d6e",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "4aab22a7bdd62f3c6231d6469766acd7db42ac9e0f8154d634557009095aad73",
+   "subject": "15"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "836946a9b7676bc4d8288663c580207cd5a7fe80d3ba93d01d0654e22d337308",
+   "subject": "15"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "df0faf2661448f6a7e7068f94a928eacf38f6a18b17bb66b7e9d5b2e123bbe41",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "2acf720a4b49fcd97475239a8d87e28f2bb58ad4e77522bd6fbfd030e2f9e8b3",
+   "subject": "16"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "6d5968af41fecc011f15d34bd6f8ea4b1a963b8f0bf84282886dc8b5b08c2297",
+   "subject": "16"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "be784fc7fa2bc60a7d2d48f23fd6e048eddd0bae72bd87b2dd1c406934d4fa49",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "a2dae8311d0cfe58aa1687d736d9f7d524a6218d6ad506100b2c1d1daa12610a",
+   "subject": "17"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "f5839fe6e2138229d7289cd0702d0371e8ec03015f4593dbd542ef3cd6f585f9",
+   "subject": "17"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e503eb97ae00037ba956d11cb89ae4a29901139d19e2735183b3ce10585e3389",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "cb082438235a90b07224a936ea8911cf3c39170521bcb612884d8e7bde4506af",
+   "subject": "18"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "38c962253776d5a0de49a1e50d4592d108d40e70c241ca6bdc392b3d6b62fb8e",
+   "subject": "18"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "628e30bb3bb6ecb8253b7bd60377bdfec901772f26fbf7f0963942693b8735a4",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e63986db73f1432e5b0269366c19e06574abf0c9e88aaa6d42bf4318120fa534",
+   "subject": "19"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "db851eec192aacd4fedcc25713536a3b65dbe0eb0f77bfcd8afe71360a68bf93",
+   "subject": "19"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "d4cfca01590d1767fe5a74972e416a3c5ef8b706d6c307a33b892855595c794f",
+   "subject": "20"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "584febfb1e8401b740e80ee6eba89ad906432a9f33d8327ab0f7afb7c3ef7a79",
+   "subject": "20"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "8e15b0f533dec24cc9490e21790aa6816bf785db5722fc55bf6379407f985c0c",
+   "subject": "20"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "9e4b7114992f33dedcfa009dadbaa12ecd22e7da0196e7b62df04f0e98a2d26a",
+   "subject": "21"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e34bce56ef02519b3fe52c5aa9e28870342d6403ae5de6871e49f8fcf69beaab",
+   "subject": "21"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "c8ca20284313f83c9c5c276e14bbbaf5c66c18297a9bc1458d0dc025f4d45492",
+   "subject": "21"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e2dfca6b2d01d02f7800111dfb49627aeb448d3416a89e4791a2fbd1ee3bfda9",
+   "subject": "22"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "0413657e713ddadd9303f770f6c7cb2360166c7096eea73feb35aa5383c41653",
+   "subject": "22"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "01aec88ba90ccf6d8c5354b92ed84d438e514583861a27a9ec62bafa83140060",
+   "subject": "22"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "9d8f69ab5bf2d480afefd7cb7ffbf9c4d14344f987461b21a6e0701d420df032",
+   "subject": "23"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "a5e46247f51f1126924059fb1659851ef027d48641286800586048310f2d7648",
+   "subject": "23"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "0f1ddb20b0b359745ad87c72c16ac1be34057a9ed78479f331ed327295f2f4ea",
+   "subject": "23"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "440b65faec7281ce2b000b1629b80c6b5ff82afbf7998185bf8288a0a33ab758",
+   "subject": "24"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "fbd2e496300ca35ddab1d29eb46583a660749dc0b3f8355526b9b22d33c7bd4e",
+   "subject": "24"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "b4a29a0d866d340d6de3e844cb573335ab1f36192da52f8c372a0b0e99945a08",
+   "subject": "24"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "af945e2a56140d7146b160e896402c2bdbfa1cda9a44de6512496179af681c63",
+   "subject": "25"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "92fafeac99f76d563ea78cae56879f3624b48fcc329e757085d231d64993e2e2",
+   "subject": "25"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "75440e683b33d102814a078ddeb2ec55f2815d97e0f71cc4a1d00143cff7ef63",
+   "subject": "25"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "0b21c78a95f75672c9c0890e5e0df8a2042818cd971db7c8c03d72124ced58df",
+   "subject": "26"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "4957ace43ce850f9951b6a0fee088e24a0c1e673f0b3d9387d7dd1b778fb2ee4",
+   "subject": "26"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "a4a658f61549f53d7b8128bb79163e3ff3c4b51bfe0087be6c1a820f56b63a19",
+   "subject": "26"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "2fa34806499625d9f00f1c83f6ec2f04f45feb0e22f8e39390bdb30309a06346",
+   "subject": "27"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "7471a5f687423e2af947b7fe9c6416fdf8dec3c731e910970f239d8a6825359b",
+   "subject": "27"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "02dd1e188a8f38d14d6d96cc874b0081a6f99a52bc62e40ec3cbb101214bfaaa",
+   "subject": "27"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "732309c83be7c49f29af41378f9861f2c6b8629d1e942e9b4167cf8ef74cc053",
+   "subject": "29"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "3e329249e3301576bc3b6fdb67a5e2511925fe6f35bf476f1357e8f508d92ad4",
+   "subject": "29"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "377a0a087804cd52a1d19647cc339ab343c6cd1a84646d3a431ce61198a74337",
+   "subject": "29"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e7a64bafb1c82c87b2058438651c157e97133e0d7cb63d1944d40d213dcbb227",
+   "subject": "30"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "46e8c7c75b2c817b488c0373a4d46f1f41ea461a157d9c56db47b4220325481b",
+   "subject": "30"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "032dbeecc8b2fdc4cc68be35e5a3808a48528f7a1818d427761ed98e5515010d",
+   "subject": "30"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "fea70bc75fce219842652dbf7b5b95903b42944960fbeb74d8a36a943e47e3c9",
+   "subject": "31"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "3ec9ad4a2c2fd501009603a597df5805c71e1b7679aa271560b6bd14ef5def08",
+   "subject": "31"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "790c8df2045840387dcc0f460d8e9fb8abf157c18e4316f7a854679373d19cab",
+   "subject": "31"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "c57d5113b48859d1d96a11132dd719fa8b96a25cc32e1f61d7f5935ddcddf852",
+   "subject": "32"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "9467574c70e3cfa79f1afb8d2dd98497189668fcc3259a780b2a033cac1a9e0a",
+   "subject": "32"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "48649bfc91b48acf978ed29e177c4dcf304122c501bc372a096562473f949e71",
+   "subject": "32"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "f572ade7f58e511d50d22d3aa9c30d61b11de897c47b3dd9f454316e1d9f7039",
+   "subject": "33"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "39c08fd58c34c32fed32a3086cce05edd7de615080754d57ba263316c384aff8",
+   "subject": "33"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "656ffa7f5ab9049e52a1c9f8b4c73f3f8c73df8d895d1030fc4d96a76e5a8ad3",
+   "subject": "33"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "95e68206206f828c84e29a53dc37ee9e6e8be736cbf6245d52dbdcfd1c75fb17",
+   "subject": "34"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "5327cb53d8b2e6ea2b12531844538364601cbaa0207825c49a697f38190b7377",
+   "subject": "34"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "6ce638bd7e20a461d0dba5841ab27eb28273eb4a9ed599bb3b851caedef0cafe",
+   "subject": "34"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "f166408d951f55bfada5a4ca46b750b25fde88b96d29da3e78ef490674b912cf",
+   "subject": "35"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "c5759cfafb6460c356f42135391f296a091564645b06ccfc65274c1492300b79",
+   "subject": "35"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "1abc32d7a0db3f70d43dc912ee2f541749e52139196dc30f289772cf656fa2c9",
+   "subject": "35"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "6613139ff0f698b387d5a6c403637385764b74d1f40e7f543697415e0904c38a",
+   "subject": "36"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "1e1372b6529059d4a3d60c2e129d9c920dee7f0a276916e8208624dcb1df8720",
+   "subject": "36"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "f1abe949f0da9c53535baa992c1ae4f8a84a0dd6a553de0793cd1f461a13f24a",
+   "subject": "36"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "9be1136537e7a85e06a40e50cffb83c9e23acb31c6133388bc3be7557b3e7470",
+   "subject": "37"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "f4dc98b6a173416a6c94773482e447596fa9eaf2801b8944215999962b259928",
+   "subject": "37"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "4011d9df6d3e7b2c93532f807adb53c5b09ce737e53391a0ce8ff95ce7ac1f6b",
+   "subject": "37"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "bd11b9cb86b0dd4ceb446bac8fe6531a9eee6980d169e2bae403dd1e4a04d93a",
+   "subject": "38"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "8438c94239c0192b60482744dffc0a7436889dd16f07dc660fbc4e6ad593393b",
+   "subject": "38"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "8bb5cdb06ff31dbea2391b74068faca28b4f16d7522716e1365df03be2e98fcb",
+   "subject": "38"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "c0e38aa30ba35c08f549ac8b3b382939314c09902ea254407be2a8f48b5fc94f",
+   "subject": "39"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "23dc9cdb8a777d8d2a75a9884dfe43efd0646d8790215f15b81d6e9b930bbd85",
+   "subject": "39"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "cd62b83b46e82acc77ce5133ee1bbcfe565e84c27c667d50a8dc3cd85d431803",
+   "subject": "39"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-free_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "ea6bc926306ee5e7a1ca8fe20854ae6b3e424ef6ff667bdf1f44e7b54019afca",
+   "subject": "40"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-high_eeg.vhdr",
+   "bytes": 3128,
+   "sha256": "e8b8ae09321104f797e490ce3c50e88da376260f0093b4b420ecc7f034ea29d7",
+   "subject": "40"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-low_eeg.vhdr",
+   "bytes": 3126,
+   "sha256": "357295c24d0a5f2d531dbddd4d7f87b42d4ad25bee13abefab53e823702a3581",
+   "subject": "40"
+  }
+ ]
+}
