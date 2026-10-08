@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "NeBULA2025: Standardized reaching motor-execution EEG dataset (NeBULA)",
-  "description": "NeBULA2025 is a BIDS-formatted release of a high-density EEG and surface EMG dataset recorded from 39 healthy adults performing a standardized right-arm reaching task toward one of three illuminated targets. The task was performed under three robotic assistance levels (free, low, high). The dataset supports neuromechanical biomarker research for upper limb assessment.",
-  "methods_description": "128-channel Brain Products actiCHamp EEG (127 EEG channels, 1000 Hz, reference FCz, ground Fpz) was recorded together with 11 EMG channels. Seated participants reached toward a target when its light turned on, at a normal pace, then returned the hand to the right leg. Each participant completed 3 runs of about 10 trials per movement type, one run per assistance level.",
+  "description": "NeBULA2025 is a high-density EEG (127 channels) and surface EMG dataset recorded from 39 healthy adults performing a standardized right-arm reaching task toward one of three illuminated targets. The task was performed under three robotic assistance levels (free, low, high). The dataset supports neuromechanical biomarker research for upper limb assessment and is re-released in BIDS format via MOABB.",
+  "methods_description": "Seated participants reached with the right arm toward a target when a light turned on, then returned the hand to the right leg. EEG was recorded at 1000 Hz with a Brain Products actiCHamp 128-channel active electrode system (reference FCz, ground Fpz), together with 11 EMG channels. Each participant completed 3 runs of about 30 trials, covering three movement types and three assistance levels.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -40,7 +40,7 @@
       "term": "upper limb"
     },
     {
-      "term": "biomarkers"
+      "term": "robotic assistance"
     },
     {
       "term": "Electroencephalography",
@@ -87,14 +87,16 @@
     "eeg"
   ],
   "sizes": [
-    "9.06 GB (118 files)"
+    "9.06 GB (236 files)"
   ],
   "formats": [
     ".edf",
     ".json",
+    ".md",
     ".tsv",
+    ".vhdr",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "97d3ebab2d1c0c637a25a7a17a2e9475b497e3e0ec0e32b366406d60941d1884"
+  "source_hash": "b09bf185ecb845dadf5c0ae0eaa58efca1094b5a9d495861fe7345ceff86554c"
 }
