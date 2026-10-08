@@ -1,53 +1,57 @@
 {
-    "Name": "NeBULA2025: Standardized reaching motor-execution EEG dataset (NeBULA)",
-    "BIDSVersion": "1.9.0",
-    "HEDVersion": "8.4.0",
-    "DatasetType": "derivative",
-    "License": "CC-BY-4.0",
-    "Authors": [
-        "Federica Garro",
-        "Elisa Fenoglio",
-        "Ilaria Ceroni",
-        "Iryna Forsiuk",
-        "Michela Canepa",
-        "Marta Mozzon",
-        "Alessandro Bruschi",
-        "Fabio Zippo",
-        "Matteo Laffranchi",
-        "Lorenzo De Michieli",
-        "Stefano Buccelli",
-        "Michela Chiappalone",
-        "Marianna Semprini"
-    ],
-    "Funding": [
-        "Istituto Nazionale Assicurazione Infortuni sul Lavoro (INAIL), project grant PR19-RR-P2"
-    ],
-    "ReferencesAndLinks": [
-        "https://doi.org/10.1038/s41597-025-05042-4"
-    ],
-    "Keywords": [
-        "Healthy",
-        "Motor",
-        "motor_execution",
-        "imagery"
-    ],
-    "DatasetDOI": "doi:10.1038/s41597-025-05042-4",
-    "GeneratedBy": [
-        {
-            "CodeURL": "https://github.com/NeuroTechX/moabb",
-            "Name": "moabb",
-            "Description": "Mother of All BCI Benchmarks",
-            "Version": "1.8.0dev0"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "DOI": "10.1038/s41597-025-05042-4",
-            "URL": "https://doi.org/10.1038/s41597-025-05042-4"
-        }
-    ],
-    "PublicationYear": 2025,
-    "EthicsApprovals": [
-        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
-    ]
+  "Name": "NeBULA2025: Standardized reaching motor-execution EEG dataset (NeBULA)",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Federica Garro",
+    "Elisa Fenoglio",
+    "Ilaria Ceroni",
+    "Iryna Forsiuk",
+    "Michela Canepa",
+    "Marta Mozzon",
+    "Alessandro Bruschi",
+    "Fabio Zippo",
+    "Matteo Laffranchi",
+    "Lorenzo De Michieli",
+    "Stefano Buccelli",
+    "Michela Chiappalone",
+    "Marianna Semprini"
+  ],
+  "Funding": [
+    "Istituto Nazionale Assicurazione Infortuni sul Lavoro (INAIL), project grant PR19-RR-P2"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41597-025-05042-4"
+  ],
+  "Keywords": [
+    "Healthy",
+    "Motor",
+    "motor_execution",
+    "imagery"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000322",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.8.0dev0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.1038/s41597-025-05042-4",
+      "URL": "https://doi.org/10.1038/s41597-025-05042-4"
+    },
+    {
+      "DOI": "doi:10.1038/s41597-025-05042-4"
+    }
+  ],
+  "PublicationYear": 2025,
+  "EthicsApprovals": [
+    "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+  ],
+  "Version": "1.0.0"
 }
