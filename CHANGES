@@ -1,0 +1,7 @@
+1.0.1 2026-10-16
+  - sourcedata: added the 117 sub-XX/eeg/*_eeg.eeg and 117 *_eeg.vmrk files that belong to the
+    117 deposited .vhdr headers, and the root dataset_description.json, participants.tsv and
+    README.txt (237 files, 19,483,272,778 bytes), unchanged from the figshare release
+    10.6084/m9.figshare.27301629 (members of the per-subject sub-XX.zip, CRC-32 checked; every zip
+    and root file md5-checked against figshare). moabb.datasets.NeBULA2025 reads them to load a
+    subject from this deposit's sourcedata/. No existing file changed; the BIDS tree is unchanged.

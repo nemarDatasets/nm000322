@@ -8,8 +8,8 @@
  "license": "CC-BY-4.0",
  "doi": "10.1038/s41597-025-05042-4",
  "naming": "upstream_filenames_restored",
- "n_files": 117,
- "total_bytes": 365898,
+ "n_files": 354,
+ "total_bytes": 19483638676,
  "files": [
   {
    "file": "sub-01/eeg/sub-01_task-free_eeg.vhdr",
@@ -712,6 +712,1911 @@
    "bytes": 3126,
    "sha256": "357295c24d0a5f2d531dbddd4d7f87b42d4ad25bee13abefab53e823702a3581",
    "subject": "40"
+  },
+  {
+   "file": "dataset_description.json",
+   "bytes": 790,
+   "sha256": "c1e83d2cefed57fedfcdbcd5e8d579d23a7386631caa19aa26690bfe4133f943",
+   "subject": null,
+   "url": "https://ndownloader.figshare.com/files/49987098",
+   "how": "figshare file, md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "participants.tsv",
+   "bytes": 765,
+   "sha256": "548f2e15feae9e078c3341b801d2321f513b9ed2d7fd4107f49fec0d6eea58f5",
+   "subject": null,
+   "url": "https://ndownloader.figshare.com/files/49987440",
+   "how": "figshare file, md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "README.txt",
+   "bytes": 348,
+   "sha256": "53a490c0e113c713d80c296efb2346dfe6200a0afcbcfc1db2d15a8137494a97",
+   "subject": null,
+   "url": "https://ndownloader.figshare.com/files/49987452",
+   "how": "figshare file, md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-free_eeg.eeg",
+   "bytes": 166569136,
+   "sha256": "3b8fb70f106287eab88464f4a14d0e843ae09cf68ba9346a1932b7e242b94fa6",
+   "subject": "1",
+   "url": "https://ndownloader.figshare.com/files/49987455#sub-01/eeg/sub-01_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-free_eeg.vmrk",
+   "bytes": 4517,
+   "sha256": "54397114afb1e238d1562c9f27a02cbff39dbf23b8189ca61324e0facd03287e",
+   "subject": "1",
+   "url": "https://ndownloader.figshare.com/files/49987455#sub-01/eeg/sub-01_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-high_eeg.eeg",
+   "bytes": 231273096,
+   "sha256": "87c6677d9a02e922a90b29e3cda9966b1391dc5014a7c0ee4046383608bd5c02",
+   "subject": "1",
+   "url": "https://ndownloader.figshare.com/files/49987455#sub-01/eeg/sub-01_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-high_eeg.vmrk",
+   "bytes": 4668,
+   "sha256": "71ae6008dcf91e76f0109860b34f7e0333554e2fe136698e148639820fa298f1",
+   "subject": "1",
+   "url": "https://ndownloader.figshare.com/files/49987455#sub-01/eeg/sub-01_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-low_eeg.eeg",
+   "bytes": 237656624,
+   "sha256": "242a318864e8e300bbd830b728029b7e309a495334cd2fbc9962f2995eb25d4d",
+   "subject": "1",
+   "url": "https://ndownloader.figshare.com/files/49987455#sub-01/eeg/sub-01_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-01/eeg/sub-01_task-low_eeg.vmrk",
+   "bytes": 4667,
+   "sha256": "f887ec6c8bb2edf111c633cab749f8106fd0b9f660b8bb8f1be0757fe173a557",
+   "subject": "1",
+   "url": "https://ndownloader.figshare.com/files/49987455#sub-01/eeg/sub-01_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-free_eeg.eeg",
+   "bytes": 133939788,
+   "sha256": "afadee865fdf13355a81a2660778589fdc36c1e03475312ecf7a6fb5ea59c0a4",
+   "subject": "2",
+   "url": "https://ndownloader.figshare.com/files/49987458#sub-02/eeg/sub-02_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-free_eeg.vmrk",
+   "bytes": 4646,
+   "sha256": "643a1a7e5572abf27336a3ff1e8c00c912e51817e3d9394a2447417319f6f2c1",
+   "subject": "2",
+   "url": "https://ndownloader.figshare.com/files/49987458#sub-02/eeg/sub-02_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-high_eeg.eeg",
+   "bytes": 177063400,
+   "sha256": "1ffabd83fc0786115c4e7f18b04370e96438c413f0a91027a4e7b0a9f50ba172",
+   "subject": "2",
+   "url": "https://ndownloader.figshare.com/files/49987458#sub-02/eeg/sub-02_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-high_eeg.vmrk",
+   "bytes": 4655,
+   "sha256": "17259d0ee528384ca928e34be2657a01c8a015e3c8f59dded4c4b108023399e6",
+   "subject": "2",
+   "url": "https://ndownloader.figshare.com/files/49987458#sub-02/eeg/sub-02_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-low_eeg.eeg",
+   "bytes": 168665144,
+   "sha256": "230810e8286c01b7b6ae8720e6d1f608295707247b4405a23b340c0d00ef1ee2",
+   "subject": "2",
+   "url": "https://ndownloader.figshare.com/files/49987458#sub-02/eeg/sub-02_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-02/eeg/sub-02_task-low_eeg.vmrk",
+   "bytes": 4654,
+   "sha256": "20de7903d5cfedfe1f57c90da201638c66e2ac10e990da6659edd6eb482bdbfe",
+   "subject": "2",
+   "url": "https://ndownloader.figshare.com/files/49987458#sub-02/eeg/sub-02_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-free_eeg.eeg",
+   "bytes": 158125668,
+   "sha256": "808597290ed4306b44d9ba8fdf7db917f24ef2833e5eb3cf3b83abed8ad4963d",
+   "subject": "3",
+   "url": "https://ndownloader.figshare.com/files/49987461#sub-03/eeg/sub-03_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-free_eeg.vmrk",
+   "bytes": 4654,
+   "sha256": "1d8df3c34d7727d550e13680caec4182bf1327a7f627192779c9b8cb707818a1",
+   "subject": "3",
+   "url": "https://ndownloader.figshare.com/files/49987461#sub-03/eeg/sub-03_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-high_eeg.eeg",
+   "bytes": 202086972,
+   "sha256": "2752f90c05a7cfbbf607ff7b937e1474de3b6a110c33620392ce8b39879a10b8",
+   "subject": "3",
+   "url": "https://ndownloader.figshare.com/files/49987461#sub-03/eeg/sub-03_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-high_eeg.vmrk",
+   "bytes": 4668,
+   "sha256": "7c612c2e235fe242a707885858b549d8d602670c99ccfc14ec889ceed11b2713",
+   "subject": "3",
+   "url": "https://ndownloader.figshare.com/files/49987461#sub-03/eeg/sub-03_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-low_eeg.eeg",
+   "bytes": 226092004,
+   "sha256": "9b4ee2c3980c5c670d21983b32f8925dfb4d1b04c6fb61f43d158f611af498e3",
+   "subject": "3",
+   "url": "https://ndownloader.figshare.com/files/49987461#sub-03/eeg/sub-03_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-03/eeg/sub-03_task-low_eeg.vmrk",
+   "bytes": 4667,
+   "sha256": "412ecd2a7683da6c6bbcc3fe44b861088e5b16b9aac3d611f634d84f64fd6720",
+   "subject": "3",
+   "url": "https://ndownloader.figshare.com/files/49987461#sub-03/eeg/sub-03_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-free_eeg.eeg",
+   "bytes": 191667384,
+   "sha256": "ca227a252943179b2298b5921dd7ad12bb1a54eb0428294fd902582fd226174a",
+   "subject": "4",
+   "url": "https://ndownloader.figshare.com/files/49987464#sub-04/eeg/sub-04_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-free_eeg.vmrk",
+   "bytes": 4654,
+   "sha256": "f43746c83f81cb634f116d209bc53e65bf48a209c84001b55df8b80954302a48",
+   "subject": "4",
+   "url": "https://ndownloader.figshare.com/files/49987464#sub-04/eeg/sub-04_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-high_eeg.eeg",
+   "bytes": 279977088,
+   "sha256": "8cf82c5c9a2c1ee79b6b88c71833ec19bd80ee8839b91951c34fe081d3244b5b",
+   "subject": "4",
+   "url": "https://ndownloader.figshare.com/files/49987464#sub-04/eeg/sub-04_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-high_eeg.vmrk",
+   "bytes": 4676,
+   "sha256": "30a65e1d668ef14c927baa1c0e0e5f67f72fcdc5898317836f92e04786af0e70",
+   "subject": "4",
+   "url": "https://ndownloader.figshare.com/files/49987464#sub-04/eeg/sub-04_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-low_eeg.eeg",
+   "bytes": 291943028,
+   "sha256": "08e14fe5e71f8075563f1aa0b1fdb64b9e863f546a0d26aabf1c664b08743a72",
+   "subject": "4",
+   "url": "https://ndownloader.figshare.com/files/49987464#sub-04/eeg/sub-04_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-04/eeg/sub-04_task-low_eeg.vmrk",
+   "bytes": 4675,
+   "sha256": "4f68814f43c367331eb1b9ca0731d5716781405d5e55ee2c64273412b790bb25",
+   "subject": "4",
+   "url": "https://ndownloader.figshare.com/files/49987464#sub-04/eeg/sub-04_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-free_eeg.eeg",
+   "bytes": 163810696,
+   "sha256": "ceeb747972a702f4bd49fe06a14823c6e4405fde4760109a21a6ceef6928ece7",
+   "subject": "5",
+   "url": "https://ndownloader.figshare.com/files/49987467#sub-05/eeg/sub-05_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-free_eeg.vmrk",
+   "bytes": 4654,
+   "sha256": "16b6cdbb85f5d0930670752cb66cebc7b02d34da1d035846ea511d66fc1456f8",
+   "subject": "5",
+   "url": "https://ndownloader.figshare.com/files/49987467#sub-05/eeg/sub-05_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-high_eeg.eeg",
+   "bytes": 219926916,
+   "sha256": "cdc9d22827e445159ca0f1d44a8e06f6d8280059cb39f6ac651712646c6f452d",
+   "subject": "5",
+   "url": "https://ndownloader.figshare.com/files/49987467#sub-05/eeg/sub-05_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-high_eeg.vmrk",
+   "bytes": 4667,
+   "sha256": "42815c18e34e4f8255a5f8bcb69cdb8f28eb126a11f948e7ca910f662bbc8f12",
+   "subject": "5",
+   "url": "https://ndownloader.figshare.com/files/49987467#sub-05/eeg/sub-05_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-low_eeg.eeg",
+   "bytes": 189472824,
+   "sha256": "b8717c0c5622dfa6eeecb082fc575cadfdb85024efd57e1b04be7c2b470caa39",
+   "subject": "5",
+   "url": "https://ndownloader.figshare.com/files/49987467#sub-05/eeg/sub-05_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-05/eeg/sub-05_task-low_eeg.vmrk",
+   "bytes": 4659,
+   "sha256": "98265c648f5570b9688a76f98b918fb11b2a2ab0ad4496e9c9bc0cc9f7cd04d9",
+   "subject": "5",
+   "url": "https://ndownloader.figshare.com/files/49987467#sub-05/eeg/sub-05_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-free_eeg.eeg",
+   "bytes": 141553692,
+   "sha256": "852642ad708f83db2f7380fc49151d6c106a19e858f5ac55ffe233ec330f9716",
+   "subject": "6",
+   "url": "https://ndownloader.figshare.com/files/49987473#sub-06/eeg/sub-06_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-free_eeg.vmrk",
+   "bytes": 4509,
+   "sha256": "c4c48ff88cb8993192f300f242950e4991146b3d8cf710db527ac7025e9dd371",
+   "subject": "6",
+   "url": "https://ndownloader.figshare.com/files/49987473#sub-06/eeg/sub-06_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-high_eeg.eeg",
+   "bytes": 214717376,
+   "sha256": "2d524fcd4b9000163d81c9941a5a80a697fd700aa212c750447cf57dc4c0784f",
+   "subject": "6",
+   "url": "https://ndownloader.figshare.com/files/49987473#sub-06/eeg/sub-06_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-high_eeg.vmrk",
+   "bytes": 4666,
+   "sha256": "f4564e6855f2ceb8ba3bbbab383d90ed165221fad2fbcce3882cdbd98430addc",
+   "subject": "6",
+   "url": "https://ndownloader.figshare.com/files/49987473#sub-06/eeg/sub-06_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-low_eeg.eeg",
+   "bytes": 207175100,
+   "sha256": "42d31efb43000b515e6cec3c3f4fa99658f64e97bd551f06e40966921688fe39",
+   "subject": "6",
+   "url": "https://ndownloader.figshare.com/files/49987473#sub-06/eeg/sub-06_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-06/eeg/sub-06_task-low_eeg.vmrk",
+   "bytes": 4667,
+   "sha256": "14cf8ebc6d37252d73cf1c1704a7125bb237a1fb7cb158bfbca8bd0ae5c4fe14",
+   "subject": "6",
+   "url": "https://ndownloader.figshare.com/files/49987473#sub-06/eeg/sub-06_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-free_eeg.eeg",
+   "bytes": 170081448,
+   "sha256": "8d3496ab60cd9090d8764955f106216be84ac5d8253dcbbf0dfae2b6d1a84684",
+   "subject": "7",
+   "url": "https://ndownloader.figshare.com/files/49987476#sub-07/eeg/sub-07_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-free_eeg.vmrk",
+   "bytes": 4654,
+   "sha256": "7d77081caca492d2d366dbf3b3cbb54968f5129c43188a3c694dc96c5496cd85",
+   "subject": "7",
+   "url": "https://ndownloader.figshare.com/files/49987476#sub-07/eeg/sub-07_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-high_eeg.eeg",
+   "bytes": 287306004,
+   "sha256": "b45b663144dff1142a88b719e723633492d3f90730ceeaf2ac62ecdc1f12913b",
+   "subject": "7",
+   "url": "https://ndownloader.figshare.com/files/49987476#sub-07/eeg/sub-07_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-high_eeg.vmrk",
+   "bytes": 4251,
+   "sha256": "dfbba2e7aabf1717161f802aad742f1a144458529debec8c172eae0cf721d210",
+   "subject": "7",
+   "url": "https://ndownloader.figshare.com/files/49987476#sub-07/eeg/sub-07_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-low_eeg.eeg",
+   "bytes": 261490460,
+   "sha256": "0d07f06d0553dd48856496b89bc83dcf9834f24ffb3744496b7465bde051f8be",
+   "subject": "7",
+   "url": "https://ndownloader.figshare.com/files/49987476#sub-07/eeg/sub-07_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-07/eeg/sub-07_task-low_eeg.vmrk",
+   "bytes": 4667,
+   "sha256": "98712085122a21423438c05a1748137e6dd86175877c870e7c57c66d168585d2",
+   "subject": "7",
+   "url": "https://ndownloader.figshare.com/files/49987476#sub-07/eeg/sub-07_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-free_eeg.eeg",
+   "bytes": 162747960,
+   "sha256": "87f265fb428a9e852140d953e967f576b8bc18af857f0e912fd1ac3e98f0fff7",
+   "subject": "8",
+   "url": "https://ndownloader.figshare.com/files/49987482#sub-08/eeg/sub-08_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-free_eeg.vmrk",
+   "bytes": 4647,
+   "sha256": "9e5731c4e0923cbe80b06875a0f583591461c733f73bf90655521a26bbaa9873",
+   "subject": "8",
+   "url": "https://ndownloader.figshare.com/files/49987482#sub-08/eeg/sub-08_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-high_eeg.eeg",
+   "bytes": 237577376,
+   "sha256": "888a6514fc258fd01c5a76328e499142ade52c5d84b9577107f3acc2f0da4e27",
+   "subject": "8",
+   "url": "https://ndownloader.figshare.com/files/49987482#sub-08/eeg/sub-08_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-high_eeg.vmrk",
+   "bytes": 4526,
+   "sha256": "9e10f0405114e69dccf68e00c42510d1adee3bd196f450dc45eb9d44418c5b49",
+   "subject": "8",
+   "url": "https://ndownloader.figshare.com/files/49987482#sub-08/eeg/sub-08_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-low_eeg.eeg",
+   "bytes": 203699872,
+   "sha256": "f71d9b1b19a4288c9b9b02d2d6baaf27e9959999373ebfa18375f440feed3e28",
+   "subject": "8",
+   "url": "https://ndownloader.figshare.com/files/49987482#sub-08/eeg/sub-08_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-08/eeg/sub-08_task-low_eeg.vmrk",
+   "bytes": 4667,
+   "sha256": "2817a8b0130e90f5d991f4089f1acda0bd3015dc45927f82adadf7a0ec413c04",
+   "subject": "8",
+   "url": "https://ndownloader.figshare.com/files/49987482#sub-08/eeg/sub-08_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-free_eeg.eeg",
+   "bytes": 189821820,
+   "sha256": "dfcc3dae1b112cee173628568e491b9b10b8ac21302c05a1aaad0d93bae3a1eb",
+   "subject": "9",
+   "url": "https://ndownloader.figshare.com/files/49987485#sub-09/eeg/sub-09_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-free_eeg.vmrk",
+   "bytes": 4517,
+   "sha256": "a752708a3e055907c75e4d726db773c0eb94590b41b1fabfbd2e3758bd9ceb5b",
+   "subject": "9",
+   "url": "https://ndownloader.figshare.com/files/49987485#sub-09/eeg/sub-09_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-high_eeg.eeg",
+   "bytes": 243215160,
+   "sha256": "d954572c0bd973e40c1d4bd86844cd6ece7dc16f3501101d5c93c296581f3e1c",
+   "subject": "9",
+   "url": "https://ndownloader.figshare.com/files/49987485#sub-09/eeg/sub-09_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-high_eeg.vmrk",
+   "bytes": 4668,
+   "sha256": "d5ba74595c1568fd4ea2fb53b9e54c02dbd4270187e0f9877cdd96ae2d4062f3",
+   "subject": "9",
+   "url": "https://ndownloader.figshare.com/files/49987485#sub-09/eeg/sub-09_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-low_eeg.eeg",
+   "bytes": 254339852,
+   "sha256": "d70a92e8f65ccc4939d5a604baf584d3692991d2134f5b62bcdf3f9a6840566a",
+   "subject": "9",
+   "url": "https://ndownloader.figshare.com/files/49987485#sub-09/eeg/sub-09_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-09/eeg/sub-09_task-low_eeg.vmrk",
+   "bytes": 4544,
+   "sha256": "67e4da4bc90b0a52326cc62b917a10b17b5eab219cedd6196084a7166b8d03e4",
+   "subject": "9",
+   "url": "https://ndownloader.figshare.com/files/49987485#sub-09/eeg/sub-09_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-free_eeg.eeg",
+   "bytes": 152743408,
+   "sha256": "80f8fe50bf19a678a5a4601e817a67300b5bf6b4d109277e915cc248692ac692",
+   "subject": "10",
+   "url": "https://ndownloader.figshare.com/files/49987488#sub-10/eeg/sub-10_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-free_eeg.vmrk",
+   "bytes": 4647,
+   "sha256": "72245c90d3e24a532a2db71154b92afe9cf4c22365db06becdb027bfad00cc80",
+   "subject": "10",
+   "url": "https://ndownloader.figshare.com/files/49987488#sub-10/eeg/sub-10_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-high_eeg.eeg",
+   "bytes": 255578356,
+   "sha256": "fa6940dc50aba541fa5e5113ef9be364a2344c171250fef2ae16c563e25d4ff8",
+   "subject": "10",
+   "url": "https://ndownloader.figshare.com/files/49987488#sub-10/eeg/sub-10_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-high_eeg.vmrk",
+   "bytes": 4683,
+   "sha256": "009683a543060c378030f50e95277688081108ba75b40228f105e2df517372d6",
+   "subject": "10",
+   "url": "https://ndownloader.figshare.com/files/49987488#sub-10/eeg/sub-10_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-low_eeg.eeg",
+   "bytes": 216079832,
+   "sha256": "9c8a2266a5b8be9f3632f172b2094f019edc48c4867b192bad21c55cee257645",
+   "subject": "10",
+   "url": "https://ndownloader.figshare.com/files/49987488#sub-10/eeg/sub-10_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-10/eeg/sub-10_task-low_eeg.vmrk",
+   "bytes": 4667,
+   "sha256": "fad79e26161cf6bec2f85e5651dee80dbb7340a43c89c9c33e9046d09fe0a41c",
+   "subject": "10",
+   "url": "https://ndownloader.figshare.com/files/49987488#sub-10/eeg/sub-10_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-free_eeg.eeg",
+   "bytes": 134160768,
+   "sha256": "5527754d17279d1c31b565e2207298183ad7ea31fc967b6eca893ce3810d810a",
+   "subject": "11",
+   "url": "https://ndownloader.figshare.com/files/49987491#sub-11/eeg/sub-11_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-free_eeg.vmrk",
+   "bytes": 4643,
+   "sha256": "2a1d98c7b2a858700f96302688717bf540d42d35688e771d0358c411c265ba49",
+   "subject": "11",
+   "url": "https://ndownloader.figshare.com/files/49987491#sub-11/eeg/sub-11_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-high_eeg.eeg",
+   "bytes": 195544440,
+   "sha256": "66a084dddc1c1bd9c033a7c870276678f97706709bbcb7541e450ed13503cd62",
+   "subject": "11",
+   "url": "https://ndownloader.figshare.com/files/49987491#sub-11/eeg/sub-11_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-high_eeg.vmrk",
+   "bytes": 4392,
+   "sha256": "f9d01107d15bf9ed24a91e051ed2450ccc3201959f1f1375397faea981ee4407",
+   "subject": "11",
+   "url": "https://ndownloader.figshare.com/files/49987491#sub-11/eeg/sub-11_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-low_eeg.eeg",
+   "bytes": 169099484,
+   "sha256": "11e0fee27f7a990ef9e91108cfaed5b39809eaaff5a0d0fa7d8a7c0d6006d086",
+   "subject": "11",
+   "url": "https://ndownloader.figshare.com/files/49987491#sub-11/eeg/sub-11_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-11/eeg/sub-11_task-low_eeg.vmrk",
+   "bytes": 4653,
+   "sha256": "bd1a3d5433693cfbc25b92c202f5fd1d593230d312baa93efcb8e82bb1be0a38",
+   "subject": "11",
+   "url": "https://ndownloader.figshare.com/files/49987491#sub-11/eeg/sub-11_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-free_eeg.eeg",
+   "bytes": 137823448,
+   "sha256": "3c2aa10f26cd092173d4082ebb55e22ddf14ea652ac46bb522d69455d153e624",
+   "subject": "12",
+   "url": "https://ndownloader.figshare.com/files/49987494#sub-12/eeg/sub-12_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-free_eeg.vmrk",
+   "bytes": 4645,
+   "sha256": "1147e35ba8ead771baedd37480a2fa31db9b3c9959ffbc8196df06c7183a6910",
+   "subject": "12",
+   "url": "https://ndownloader.figshare.com/files/49987494#sub-12/eeg/sub-12_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-high_eeg.eeg",
+   "bytes": 198751444,
+   "sha256": "b4256314b05b88bb696edf0e78b19aad8f5e9ffe8409ee9862724e6dafe73237",
+   "subject": "12",
+   "url": "https://ndownloader.figshare.com/files/49987494#sub-12/eeg/sub-12_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-high_eeg.vmrk",
+   "bytes": 4664,
+   "sha256": "aad75c212722bce14cfdcde7acd219c10de1f5dc0347be145e335327765f354f",
+   "subject": "12",
+   "url": "https://ndownloader.figshare.com/files/49987494#sub-12/eeg/sub-12_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-low_eeg.eeg",
+   "bytes": 186546744,
+   "sha256": "e477392a48dcf7a1e91fcca1ae04ab37fee1972f7d858165c9e6514125cdbe78",
+   "subject": "12",
+   "url": "https://ndownloader.figshare.com/files/49987494#sub-12/eeg/sub-12_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-12/eeg/sub-12_task-low_eeg.vmrk",
+   "bytes": 4657,
+   "sha256": "752fbfe5cd3d5489bd0e462cd6caf396d878587819bbfcb3fa074827f77a9113",
+   "subject": "12",
+   "url": "https://ndownloader.figshare.com/files/49987494#sub-12/eeg/sub-12_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-free_eeg.eeg",
+   "bytes": 162505136,
+   "sha256": "a7481895b14d62d5e17704a25bb0aeba3c94d103f8174eb05251f1b878f5944c",
+   "subject": "13",
+   "url": "https://ndownloader.figshare.com/files/49987497#sub-13/eeg/sub-13_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-free_eeg.vmrk",
+   "bytes": 4647,
+   "sha256": "d5748a079ab0af0d4e03446128b3e682c176dcfe6d7a4d3ce285d15122684423",
+   "subject": "13",
+   "url": "https://ndownloader.figshare.com/files/49987497#sub-13/eeg/sub-13_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-high_eeg.eeg",
+   "bytes": 194736212,
+   "sha256": "6235be185e0397c30fe4733425670d07c327615d3ffc27169ae3164077916cb3",
+   "subject": "13",
+   "url": "https://ndownloader.figshare.com/files/49987497#sub-13/eeg/sub-13_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-high_eeg.vmrk",
+   "bytes": 4663,
+   "sha256": "211f4c8cc02ab26468bdcb21bb75ebe370bff0b6c7dfec9b8640da11f88ec067",
+   "subject": "13",
+   "url": "https://ndownloader.figshare.com/files/49987497#sub-13/eeg/sub-13_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-low_eeg.eeg",
+   "bytes": 197620128,
+   "sha256": "b2a8754c2c970d01efd00df61e48ed4a7a833d337cea986045ca4cbf273356c4",
+   "subject": "13",
+   "url": "https://ndownloader.figshare.com/files/49987497#sub-13/eeg/sub-13_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-13/eeg/sub-13_task-low_eeg.vmrk",
+   "bytes": 4531,
+   "sha256": "192e16d9bc9de7e287a210b81c84ac62f1b3730575941cca6d75eea07b4c2160",
+   "subject": "13",
+   "url": "https://ndownloader.figshare.com/files/49987497#sub-13/eeg/sub-13_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-free_eeg.eeg",
+   "bytes": 190771272,
+   "sha256": "1dc58d959cc7c57de35f93b71a81d98a7116270a0e40fbb7e7fb8e01f7337598",
+   "subject": "14",
+   "url": "https://ndownloader.figshare.com/files/49987500#sub-14/eeg/sub-14_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-free_eeg.vmrk",
+   "bytes": 4528,
+   "sha256": "41962a89696223551c52fa36f15d286df2c2f636f714f8e25b05c12a593c7c14",
+   "subject": "14",
+   "url": "https://ndownloader.figshare.com/files/49987500#sub-14/eeg/sub-14_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-high_eeg.eeg",
+   "bytes": 244091460,
+   "sha256": "0d51db43ad50ccc8b1bb252f8cd6e4667a477a661b9a74338d5951c45dd2f178",
+   "subject": "14",
+   "url": "https://ndownloader.figshare.com/files/49987500#sub-14/eeg/sub-14_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-high_eeg.vmrk",
+   "bytes": 4668,
+   "sha256": "5f7b667fd9038f026746019a1bf560bc7554c2347db9c5fa598d2c3f8ca16351",
+   "subject": "14",
+   "url": "https://ndownloader.figshare.com/files/49987500#sub-14/eeg/sub-14_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-low_eeg.eeg",
+   "bytes": 256596896,
+   "sha256": "ea86a9e9859394a15e278cee107015ff1792ab1245248950f225fd15a2e58cea",
+   "subject": "14",
+   "url": "https://ndownloader.figshare.com/files/49987500#sub-14/eeg/sub-14_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-14/eeg/sub-14_task-low_eeg.vmrk",
+   "bytes": 4387,
+   "sha256": "75af0548d8e44bcdfb5927d338fbe90a91d97aef63e54e8eddb10f71db580f86",
+   "subject": "14",
+   "url": "https://ndownloader.figshare.com/files/49987500#sub-14/eeg/sub-14_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-free_eeg.eeg",
+   "bytes": 117303296,
+   "sha256": "83fc7827868144146951d5c0eb2f62147c6c64b2f30a33f29badd083b79ed790",
+   "subject": "15",
+   "url": "https://ndownloader.figshare.com/files/49987503#sub-15/eeg/sub-15_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-free_eeg.vmrk",
+   "bytes": 4630,
+   "sha256": "adb802696d3c80260a83c6d267841ab7e2a33e62b4cc8f01c4d67165e57081c5",
+   "subject": "15",
+   "url": "https://ndownloader.figshare.com/files/49987503#sub-15/eeg/sub-15_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-high_eeg.eeg",
+   "bytes": 156089096,
+   "sha256": "5bed7414e55c3a0256e7c410b10447f2621348a99092e076686e8a0800cbd1d0",
+   "subject": "15",
+   "url": "https://ndownloader.figshare.com/files/49987503#sub-15/eeg/sub-15_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-high_eeg.vmrk",
+   "bytes": 4504,
+   "sha256": "703b598ae0e9df21e147b9e9e55877bbc3c3b0a479e6cdfb16c96f69f32a9898",
+   "subject": "15",
+   "url": "https://ndownloader.figshare.com/files/49987503#sub-15/eeg/sub-15_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-low_eeg.eeg",
+   "bytes": 151059896,
+   "sha256": "427da183ef4717979b1e24f8edb734cd261b7ce378037feb16f947389e37e7fb",
+   "subject": "15",
+   "url": "https://ndownloader.figshare.com/files/49987503#sub-15/eeg/sub-15_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-15/eeg/sub-15_task-low_eeg.vmrk",
+   "bytes": 4223,
+   "sha256": "05326a8888f6ad3a661258f329d55d09a8c5a209e3ea806ddce13be5c716507a",
+   "subject": "15",
+   "url": "https://ndownloader.figshare.com/files/49987503#sub-15/eeg/sub-15_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-free_eeg.eeg",
+   "bytes": 159165036,
+   "sha256": "7be6dd64758fa032a2b5361b337474aa547a52f662eb793195e413e7dc9500e6",
+   "subject": "16",
+   "url": "https://ndownloader.figshare.com/files/49987506#sub-16/eeg/sub-16_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-free_eeg.vmrk",
+   "bytes": 4654,
+   "sha256": "cfd4bc53883d98a7c9a2a108a00ac4086fde6df8d03456e7b7fffac2325755c7",
+   "subject": "16",
+   "url": "https://ndownloader.figshare.com/files/49987506#sub-16/eeg/sub-16_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-high_eeg.eeg",
+   "bytes": 195208652,
+   "sha256": "728864a86aa2ebc2a96973d903027b919220bbbacd2bb4d4ae06be88972d110d",
+   "subject": "16",
+   "url": "https://ndownloader.figshare.com/files/49987506#sub-16/eeg/sub-16_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-high_eeg.vmrk",
+   "bytes": 4666,
+   "sha256": "d13566004e32c34074b5acb1a22db70ae88a271cc016779bd429eb1d051db67c",
+   "subject": "16",
+   "url": "https://ndownloader.figshare.com/files/49987506#sub-16/eeg/sub-16_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-low_eeg.eeg",
+   "bytes": 184741820,
+   "sha256": "90ce6eff89cc900bfc94388d9d67f609e5e8412c729e96758cc0b6227d7ce91a",
+   "subject": "16",
+   "url": "https://ndownloader.figshare.com/files/49987506#sub-16/eeg/sub-16_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-16/eeg/sub-16_task-low_eeg.vmrk",
+   "bytes": 4654,
+   "sha256": "59b9a0cd6c00176a3fc90051e28e34b088a4154341c674e5c3cef8b011f770a5",
+   "subject": "16",
+   "url": "https://ndownloader.figshare.com/files/49987506#sub-16/eeg/sub-16_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-free_eeg.eeg",
+   "bytes": 111815372,
+   "sha256": "6d112cd1fd54a31cd4ae8afdb268dd77ec0c6466ebcda2b32d025b5e12105578",
+   "subject": "17",
+   "url": "https://ndownloader.figshare.com/files/49987509#sub-17/eeg/sub-17_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-free_eeg.vmrk",
+   "bytes": 4631,
+   "sha256": "9bd1576a54b58578ec14cd5f672641990f25d1dc2c656b7e1d940e57f44bbb3e",
+   "subject": "17",
+   "url": "https://ndownloader.figshare.com/files/49987509#sub-17/eeg/sub-17_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-high_eeg.eeg",
+   "bytes": 156420312,
+   "sha256": "0166a5f1a059dbcf28a36336181bf7c14e4f1e02688d25ca9f921971f03007a6",
+   "subject": "17",
+   "url": "https://ndownloader.figshare.com/files/49987509#sub-17/eeg/sub-17_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-high_eeg.vmrk",
+   "bytes": 4646,
+   "sha256": "2eaff1efbaa615f552cab6b5fc6fbb69d12124049e18deb3ff75e08a790ff333",
+   "subject": "17",
+   "url": "https://ndownloader.figshare.com/files/49987509#sub-17/eeg/sub-17_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-low_eeg.eeg",
+   "bytes": 159046164,
+   "sha256": "cf93958dd900c88fb5b6e74aa6bb60f6820be5b6a24d76cdba51bd0ca5cb162a",
+   "subject": "17",
+   "url": "https://ndownloader.figshare.com/files/49987509#sub-17/eeg/sub-17_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-17/eeg/sub-17_task-low_eeg.vmrk",
+   "bytes": 4652,
+   "sha256": "aa0d09e03206b4ecb947646705476a5ce4577b253e1789a219a8fc51ef2bd6b3",
+   "subject": "17",
+   "url": "https://ndownloader.figshare.com/files/49987509#sub-17/eeg/sub-17_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-free_eeg.eeg",
+   "bytes": 137372852,
+   "sha256": "23309eeab004dab922c4b6a38396537231413aabc9156bb49d2065457339d871",
+   "subject": "18",
+   "url": "https://ndownloader.figshare.com/files/49987512#sub-18/eeg/sub-18_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-free_eeg.vmrk",
+   "bytes": 4644,
+   "sha256": "78c3677b34bdb9e3ce4cb9d93cfdfda8ba83d23f2f96e9401a9f5ccd64a1b243",
+   "subject": "18",
+   "url": "https://ndownloader.figshare.com/files/49987512#sub-18/eeg/sub-18_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-high_eeg.eeg",
+   "bytes": 158679896,
+   "sha256": "69cbcce063fd9f9c6187b80feb3b94031207690a89a9f47ce5139d9d59f62761",
+   "subject": "18",
+   "url": "https://ndownloader.figshare.com/files/49987512#sub-18/eeg/sub-18_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-high_eeg.vmrk",
+   "bytes": 4652,
+   "sha256": "7317ffee2b347f7b0cc4310ab9896ec6babc8c8376d3ad17fa20f0cf69ae7943",
+   "subject": "18",
+   "url": "https://ndownloader.figshare.com/files/49987512#sub-18/eeg/sub-18_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-low_eeg.eeg",
+   "bytes": 160080960,
+   "sha256": "22cc8fd55ab37dc95d120020012d402958e118810a4cc34614d197f8d4e243f8",
+   "subject": "18",
+   "url": "https://ndownloader.figshare.com/files/49987512#sub-18/eeg/sub-18_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-18/eeg/sub-18_task-low_eeg.vmrk",
+   "bytes": 4653,
+   "sha256": "d6ae7f5698df21065ea05c37fd42288fbb77fb81ff0f9ad5e988529600cb9d1d",
+   "subject": "18",
+   "url": "https://ndownloader.figshare.com/files/49987512#sub-18/eeg/sub-18_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-free_eeg.eeg",
+   "bytes": 153420572,
+   "sha256": "f7554eea1d4a142aefdf81d35e1e3fa28feda6432624055ffc4b1cf657141822",
+   "subject": "19",
+   "url": "https://ndownloader.figshare.com/files/49987515#sub-19/eeg/sub-19_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-free_eeg.vmrk",
+   "bytes": 4650,
+   "sha256": "f65b4396d91da429134c37107c470f9f7174950f5b96ad8b695f583516cbe657",
+   "subject": "19",
+   "url": "https://ndownloader.figshare.com/files/49987515#sub-19/eeg/sub-19_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-high_eeg.eeg",
+   "bytes": 206456788,
+   "sha256": "2195a792bac84ae789a44b0ab099db16a60b938e6c4c3521f06ee37e61ccac78",
+   "subject": "19",
+   "url": "https://ndownloader.figshare.com/files/49987515#sub-19/eeg/sub-19_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-high_eeg.vmrk",
+   "bytes": 4533,
+   "sha256": "94f138e9e9261b514f8e43e93969f74a3f7d9e5693e193753d0cb339fca770b7",
+   "subject": "19",
+   "url": "https://ndownloader.figshare.com/files/49987515#sub-19/eeg/sub-19_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-low_eeg.eeg",
+   "bytes": 198428864,
+   "sha256": "1aaa5d71f24b8accae17b722dd42f1d9ca31bec35c3d449247742bb9e9db7c44",
+   "subject": "19",
+   "url": "https://ndownloader.figshare.com/files/49987515#sub-19/eeg/sub-19_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-19/eeg/sub-19_task-low_eeg.vmrk",
+   "bytes": 4666,
+   "sha256": "e6c55cf01f5ae566ed5bcdcb54078948e3d79dc9af505551852c1629bc97457c",
+   "subject": "19",
+   "url": "https://ndownloader.figshare.com/files/49987515#sub-19/eeg/sub-19_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-free_eeg.eeg",
+   "bytes": 184495440,
+   "sha256": "56fa8bb5d0c2a9e75915afb3e2861946e8bea364daf8ff9b207469a79db8d115",
+   "subject": "20",
+   "url": "https://ndownloader.figshare.com/files/49987518#sub-20/eeg/sub-20_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-free_eeg.vmrk",
+   "bytes": 4662,
+   "sha256": "1707f1f0ddddfeb6c55772946ee04b5d6c0fbdb5ed6a273d83799d03a6202ad4",
+   "subject": "20",
+   "url": "https://ndownloader.figshare.com/files/49987518#sub-20/eeg/sub-20_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-high_eeg.eeg",
+   "bytes": 254798576,
+   "sha256": "59da67443cfd5921a8c3ee187a2254b09aeaff2731233238690b8b0f5be2f3f5",
+   "subject": "20",
+   "url": "https://ndownloader.figshare.com/files/49987518#sub-20/eeg/sub-20_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-high_eeg.vmrk",
+   "bytes": 4668,
+   "sha256": "fa2d72d7d2c431214aafaf89d1ca258af09c8538ebf32d450f450e828f2a70b0",
+   "subject": "20",
+   "url": "https://ndownloader.figshare.com/files/49987518#sub-20/eeg/sub-20_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-low_eeg.eeg",
+   "bytes": 203131420,
+   "sha256": "c139f9fc881bd9469f4464670ce458c7887cb9871f9ba1e4a2bd9261843bf601",
+   "subject": "20",
+   "url": "https://ndownloader.figshare.com/files/49987518#sub-20/eeg/sub-20_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-20/eeg/sub-20_task-low_eeg.vmrk",
+   "bytes": 4659,
+   "sha256": "c91a71faa886b389a00b97eda3af3d71bd4ed65f87bbd85cbe8bfaae8cb5ddd2",
+   "subject": "20",
+   "url": "https://ndownloader.figshare.com/files/49987518#sub-20/eeg/sub-20_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-free_eeg.eeg",
+   "bytes": 139248896,
+   "sha256": "9da35f938b2d413242938e82251ae0b1cb108761d705a13e20f601c8a8fe4e5b",
+   "subject": "21",
+   "url": "https://ndownloader.figshare.com/files/49987521#sub-21/eeg/sub-21_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-free_eeg.vmrk",
+   "bytes": 4644,
+   "sha256": "2916fdcd19b4916a528c081abffcd6f664c7a1389d04fbad606375a1246e5ba0",
+   "subject": "21",
+   "url": "https://ndownloader.figshare.com/files/49987521#sub-21/eeg/sub-21_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-high_eeg.eeg",
+   "bytes": 231970072,
+   "sha256": "ff6b54acb089bc6907459171e6d0d7574bb091cbcdf1556210d662d3e7060cc0",
+   "subject": "21",
+   "url": "https://ndownloader.figshare.com/files/49987521#sub-21/eeg/sub-21_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-high_eeg.vmrk",
+   "bytes": 4530,
+   "sha256": "03ad7ac6e7878a5b125d0ed0f0f0b9b155e92656c5c5a12458943b022fef7855",
+   "subject": "21",
+   "url": "https://ndownloader.figshare.com/files/49987521#sub-21/eeg/sub-21_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-low_eeg.eeg",
+   "bytes": 226062540,
+   "sha256": "03e0b888576e3faa38242709449dc618f09710e6e4ca43a65a771d0f30402f41",
+   "subject": "21",
+   "url": "https://ndownloader.figshare.com/files/49987521#sub-21/eeg/sub-21_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-21/eeg/sub-21_task-low_eeg.vmrk",
+   "bytes": 4666,
+   "sha256": "46be86f20c6f52ae02f9342d8bc583f125475dd1bff7709bd49aff642636c447",
+   "subject": "21",
+   "url": "https://ndownloader.figshare.com/files/49987521#sub-21/eeg/sub-21_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-free_eeg.eeg",
+   "bytes": 99069144,
+   "sha256": "519a948b811e7ec7d133f42dbead102b2589eeaf836c20f1c455a0665d06333a",
+   "subject": "22",
+   "url": "https://ndownloader.figshare.com/files/49987536#sub-22/eeg/sub-22_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-free_eeg.vmrk",
+   "bytes": 4577,
+   "sha256": "ac4c76294a6a8fac659f5d000657073e1c16e5bf50761921503f39db80c7bfd8",
+   "subject": "22",
+   "url": "https://ndownloader.figshare.com/files/49987536#sub-22/eeg/sub-22_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-high_eeg.eeg",
+   "bytes": 135913876,
+   "sha256": "ecc7b1d40447d33ab5b87e6cecef1b864a50544bf44f004fa4dfd40f2d3695c5",
+   "subject": "22",
+   "url": "https://ndownloader.figshare.com/files/49987536#sub-22/eeg/sub-22_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-high_eeg.vmrk",
+   "bytes": 4611,
+   "sha256": "4acd63057023d04811db98c511575af385799827c045aea427871dbcb48558c5",
+   "subject": "22",
+   "url": "https://ndownloader.figshare.com/files/49987536#sub-22/eeg/sub-22_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-low_eeg.eeg",
+   "bytes": 130038856,
+   "sha256": "1d0e97fa1310e7493bf068efd08283b107ab27fd3407655fede064529c49eda1",
+   "subject": "22",
+   "url": "https://ndownloader.figshare.com/files/49987536#sub-22/eeg/sub-22_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-22/eeg/sub-22_task-low_eeg.vmrk",
+   "bytes": 4611,
+   "sha256": "865375a0f952c3e69a3ecc6b0d295fbbd95c2511dd227242c7c027e71bd91548",
+   "subject": "22",
+   "url": "https://ndownloader.figshare.com/files/49987536#sub-22/eeg/sub-22_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-free_eeg.eeg",
+   "bytes": 121195592,
+   "sha256": "bb54ea2c10089c0aabc3476876d8fcc196dfb634a5523c094157a9b2905ba9ec",
+   "subject": "23",
+   "url": "https://ndownloader.figshare.com/files/49987539#sub-23/eeg/sub-23_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-free_eeg.vmrk",
+   "bytes": 4592,
+   "sha256": "9c7a6b18da4280307e7c69af65a87ece3ae1e2b9449ce337d858a5b86740bb4c",
+   "subject": "23",
+   "url": "https://ndownloader.figshare.com/files/49987539#sub-23/eeg/sub-23_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-high_eeg.eeg",
+   "bytes": 156338524,
+   "sha256": "4afc523265f933a04a9271bba1bc100712cf325fcc959274312df11b8bb48947",
+   "subject": "23",
+   "url": "https://ndownloader.figshare.com/files/49987539#sub-23/eeg/sub-23_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-high_eeg.vmrk",
+   "bytes": 4625,
+   "sha256": "1e9ce69fb36afa63fc022ce583019a66c4a2a4c6760b7a49f5655e18849c16b9",
+   "subject": "23",
+   "url": "https://ndownloader.figshare.com/files/49987539#sub-23/eeg/sub-23_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-low_eeg.eeg",
+   "bytes": 148886164,
+   "sha256": "578a7757e71c8d44081c44786c5acef0435b6c8bf6b63437b0e2770a270deb91",
+   "subject": "23",
+   "url": "https://ndownloader.figshare.com/files/49987539#sub-23/eeg/sub-23_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-23/eeg/sub-23_task-low_eeg.vmrk",
+   "bytes": 4624,
+   "sha256": "6d2968ba612b928df87060ea91c9e364a58f1d7af693a1fd6d5bfad50b2d6338",
+   "subject": "23",
+   "url": "https://ndownloader.figshare.com/files/49987539#sub-23/eeg/sub-23_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-free_eeg.eeg",
+   "bytes": 103038148,
+   "sha256": "227493da22286b5a2ac3570a7e7dddf57e3ea9391b428df1f43f740a3d14e109",
+   "subject": "24",
+   "url": "https://ndownloader.figshare.com/files/49987545#sub-24/eeg/sub-24_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-free_eeg.vmrk",
+   "bytes": 4589,
+   "sha256": "8480def68e2da02788fa09e52dd60e74fcae65e9d4c47cc5fc2f3fc837919dee",
+   "subject": "24",
+   "url": "https://ndownloader.figshare.com/files/49987545#sub-24/eeg/sub-24_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-high_eeg.eeg",
+   "bytes": 160289240,
+   "sha256": "0bc49ed23fbcd41349a12e7d54a1466b4d12974baa3df60cf86f4bba17634fad",
+   "subject": "24",
+   "url": "https://ndownloader.figshare.com/files/49987545#sub-24/eeg/sub-24_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-high_eeg.vmrk",
+   "bytes": 4632,
+   "sha256": "97ed5c16d4701aea5c054355e3a6e878092dc354b427fc313e2539f5852b962e",
+   "subject": "24",
+   "url": "https://ndownloader.figshare.com/files/49987545#sub-24/eeg/sub-24_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-low_eeg.eeg",
+   "bytes": 160945576,
+   "sha256": "d32c53296a31ef39a919adb00670835368ac8a50c68a0a3a8163b34d54ec5b65",
+   "subject": "24",
+   "url": "https://ndownloader.figshare.com/files/49987545#sub-24/eeg/sub-24_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-24/eeg/sub-24_task-low_eeg.vmrk",
+   "bytes": 4628,
+   "sha256": "61af77a74be17866f37011e4caa0f547aed7e3a1630135009f42900683aa1a96",
+   "subject": "24",
+   "url": "https://ndownloader.figshare.com/files/49987545#sub-24/eeg/sub-24_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-free_eeg.eeg",
+   "bytes": 171979336,
+   "sha256": "035c0808e8dfa24a32b34bb86db0cc416eee01c12774527a919f3776c06f05d4",
+   "subject": "25",
+   "url": "https://ndownloader.figshare.com/files/49987554#sub-25/eeg/sub-25_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-free_eeg.vmrk",
+   "bytes": 4646,
+   "sha256": "96b7f8a0a397999c66e3490f9e551ee405a8d7b7bbdf7aa3eec619a5a924b0cc",
+   "subject": "25",
+   "url": "https://ndownloader.figshare.com/files/49987554#sub-25/eeg/sub-25_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-high_eeg.eeg",
+   "bytes": 167355520,
+   "sha256": "83f6ee30659217c7994a1fbde8b2aa542ddfafeea756a90c3f87940834abd33e",
+   "subject": "25",
+   "url": "https://ndownloader.figshare.com/files/49987554#sub-25/eeg/sub-25_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-high_eeg.vmrk",
+   "bytes": 4637,
+   "sha256": "4c272f3166f49a347026ed94103a0aff1df90d287591f99f4c255e753b5f2ddb",
+   "subject": "25",
+   "url": "https://ndownloader.figshare.com/files/49987554#sub-25/eeg/sub-25_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-low_eeg.eeg",
+   "bytes": 221439740,
+   "sha256": "da0137d03b9f1bf5f4094944a9cde1368571cd98cc3bbcd72e2e098fa70a5b85",
+   "subject": "25",
+   "url": "https://ndownloader.figshare.com/files/49987554#sub-25/eeg/sub-25_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-25/eeg/sub-25_task-low_eeg.vmrk",
+   "bytes": 4646,
+   "sha256": "8c877e0285bb5a36e348a416533d36d353444c11f86fdb82f9fcb1151ee27a83",
+   "subject": "25",
+   "url": "https://ndownloader.figshare.com/files/49987554#sub-25/eeg/sub-25_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-free_eeg.eeg",
+   "bytes": 99799648,
+   "sha256": "89f710cb8e052cf0e8352fdecb031469de5ddf9da67d9df46977bb1338d7648f",
+   "subject": "26",
+   "url": "https://ndownloader.figshare.com/files/49987560#sub-26/eeg/sub-26_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-free_eeg.vmrk",
+   "bytes": 4587,
+   "sha256": "0e6d63b4011871fd8f9d3d2c875bc82d712906277b9c1fda69900f25dfe0f2f7",
+   "subject": "26",
+   "url": "https://ndownloader.figshare.com/files/49987560#sub-26/eeg/sub-26_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-high_eeg.eeg",
+   "bytes": 150323804,
+   "sha256": "525d309cec1e2a3134c8e9775e0b8ecfce7cd763f9e89001a0b8ba8fbf96224f",
+   "subject": "26",
+   "url": "https://ndownloader.figshare.com/files/49987560#sub-26/eeg/sub-26_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-high_eeg.vmrk",
+   "bytes": 4630,
+   "sha256": "9fedfc25df89c2629eec9d4428cfc6eb24054558827fc87fe7e65df7769ed8e3",
+   "subject": "26",
+   "url": "https://ndownloader.figshare.com/files/49987560#sub-26/eeg/sub-26_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-low_eeg.eeg",
+   "bytes": 147444460,
+   "sha256": "dc51b5821c6684a65d51293e6b584578f79102f8fc612314b573ba9f37027a04",
+   "subject": "26",
+   "url": "https://ndownloader.figshare.com/files/49987560#sub-26/eeg/sub-26_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-26/eeg/sub-26_task-low_eeg.vmrk",
+   "bytes": 4621,
+   "sha256": "6246c97ffc88eba0ad611243c37d9ff42e17e852a6e5bf96661d3f7246b411dc",
+   "subject": "26",
+   "url": "https://ndownloader.figshare.com/files/49987560#sub-26/eeg/sub-26_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-free_eeg.eeg",
+   "bytes": 131156964,
+   "sha256": "3edfe3fd0b5502aa52b4f8795d832a0d29731def31d406364dfc1fd3bb548c8f",
+   "subject": "27",
+   "url": "https://ndownloader.figshare.com/files/49987563#sub-27/eeg/sub-27_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-free_eeg.vmrk",
+   "bytes": 4613,
+   "sha256": "0912a7074843aa68df0bce108576390f2129f5ce2c54c6eba7cfb5e33371f41f",
+   "subject": "27",
+   "url": "https://ndownloader.figshare.com/files/49987563#sub-27/eeg/sub-27_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-high_eeg.eeg",
+   "bytes": 147073112,
+   "sha256": "7d962fe174e5b3cdcecd13fbbc42d40adde34eb58c0e92982551ea4d08f742f2",
+   "subject": "27",
+   "url": "https://ndownloader.figshare.com/files/49987563#sub-27/eeg/sub-27_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-high_eeg.vmrk",
+   "bytes": 4621,
+   "sha256": "e215d3c0e6db9dd87e1871085a5734e52d821324624de94b85053dccd53be1f7",
+   "subject": "27",
+   "url": "https://ndownloader.figshare.com/files/49987563#sub-27/eeg/sub-27_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-low_eeg.eeg",
+   "bytes": 142410180,
+   "sha256": "47fb2b215b566074a63a47e559b422436775e03fece421989476c7b42806d4f6",
+   "subject": "27",
+   "url": "https://ndownloader.figshare.com/files/49987563#sub-27/eeg/sub-27_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-27/eeg/sub-27_task-low_eeg.vmrk",
+   "bytes": 4620,
+   "sha256": "a4a088dd065863cb7a9c46e12013fe76a71bc304900d383725830ccfac765ee5",
+   "subject": "27",
+   "url": "https://ndownloader.figshare.com/files/49987563#sub-27/eeg/sub-27_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-free_eeg.eeg",
+   "bytes": 104134412,
+   "sha256": "289049d75c24cfdf305a024bf02d8e21fc00e42e3c6a486e5bbf11dd8818da31",
+   "subject": "29",
+   "url": "https://ndownloader.figshare.com/files/49987575#sub-29/eeg/sub-29_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-free_eeg.vmrk",
+   "bytes": 4587,
+   "sha256": "6764b09a1dfdcc9532b3910015aa21f2015631ab4196344321ce59fd8a540db3",
+   "subject": "29",
+   "url": "https://ndownloader.figshare.com/files/49987575#sub-29/eeg/sub-29_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-high_eeg.eeg",
+   "bytes": 128982216,
+   "sha256": "8bc8a200fc2069ce3aadab1c4ae7f805a9e3c28ca5910161a6eaecba7f68fe32",
+   "subject": "29",
+   "url": "https://ndownloader.figshare.com/files/49987575#sub-29/eeg/sub-29_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-high_eeg.vmrk",
+   "bytes": 4611,
+   "sha256": "009d661488f00ea823e075b44c63bdb941e3637afa784035f3007571d7c38052",
+   "subject": "29",
+   "url": "https://ndownloader.figshare.com/files/49987575#sub-29/eeg/sub-29_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-low_eeg.eeg",
+   "bytes": 125859540,
+   "sha256": "6eecf332b010f14703f6b68fb0ce44e06f647fd56cf22e70b08d4094901dd8ea",
+   "subject": "29",
+   "url": "https://ndownloader.figshare.com/files/49987575#sub-29/eeg/sub-29_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-29/eeg/sub-29_task-low_eeg.vmrk",
+   "bytes": 4599,
+   "sha256": "6e6f2ca6eb7a63bced6f3dc4b8a70267cbdf279f4c2188b8ceaebcfcb305db57",
+   "subject": "29",
+   "url": "https://ndownloader.figshare.com/files/49987575#sub-29/eeg/sub-29_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-free_eeg.eeg",
+   "bytes": 103878888,
+   "sha256": "d8b39c1a113d21c27c1ef98217fe81ec59292878a20a1c8ffcc83751ce536abe",
+   "subject": "30",
+   "url": "https://ndownloader.figshare.com/files/49987578#sub-30/eeg/sub-30_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-free_eeg.vmrk",
+   "bytes": 4588,
+   "sha256": "a09176f95eb348b8dfd43fa6c20fcb23fe6f045a223489345b8c2f5260aeb3f7",
+   "subject": "30",
+   "url": "https://ndownloader.figshare.com/files/49987578#sub-30/eeg/sub-30_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-high_eeg.eeg",
+   "bytes": 160004252,
+   "sha256": "c49ff170d1494edb58f470ad1a7f4f90bcf951319699ffe42ca7484dbedf6e0c",
+   "subject": "30",
+   "url": "https://ndownloader.figshare.com/files/49987578#sub-30/eeg/sub-30_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-high_eeg.vmrk",
+   "bytes": 4640,
+   "sha256": "f986661afae72ca8b4c818901d4d58838413467882ee84c9a0874f647194c5f6",
+   "subject": "30",
+   "url": "https://ndownloader.figshare.com/files/49987578#sub-30/eeg/sub-30_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-low_eeg.eeg",
+   "bytes": 133969760,
+   "sha256": "7735a9e08fadd391d639ead2dbbf5f609a0fcd1b0f172c20a533f5cc5c35ed3d",
+   "subject": "30",
+   "url": "https://ndownloader.figshare.com/files/49987578#sub-30/eeg/sub-30_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-30/eeg/sub-30_task-low_eeg.vmrk",
+   "bytes": 4611,
+   "sha256": "42b489bb87ae815914336042255e194377bb759dd59e3ca08107f38639ef3795",
+   "subject": "30",
+   "url": "https://ndownloader.figshare.com/files/49987578#sub-30/eeg/sub-30_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-free_eeg.eeg",
+   "bytes": 118350792,
+   "sha256": "74635730421a221e62f50da5893e8bb71ebafc98fb5505753b01f4fd0fdd2ce3",
+   "subject": "31",
+   "url": "https://ndownloader.figshare.com/files/49987581#sub-31/eeg/sub-31_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-free_eeg.vmrk",
+   "bytes": 4599,
+   "sha256": "b85e9090a6a009627b01a3c206ac3aa1b54726e6a9035fec6061bd2348c8674d",
+   "subject": "31",
+   "url": "https://ndownloader.figshare.com/files/49987581#sub-31/eeg/sub-31_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-high_eeg.eeg",
+   "bytes": 197928484,
+   "sha256": "4e449e022a280cf3e37e6f976d8d48f0e9422a00f966bd35e97e8d23761a659d",
+   "subject": "31",
+   "url": "https://ndownloader.figshare.com/files/49987581#sub-31/eeg/sub-31_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-high_eeg.vmrk",
+   "bytes": 4625,
+   "sha256": "751a278c635ed7de01d61205850570d8fc644801a7c739aeb83316b716e5fd4a",
+   "subject": "31",
+   "url": "https://ndownloader.figshare.com/files/49987581#sub-31/eeg/sub-31_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-low_eeg.eeg",
+   "bytes": 142966440,
+   "sha256": "667362e3ab96bbba9a744d8cbb73119e6bf2c38105847f467535c67c68b31f9d",
+   "subject": "31",
+   "url": "https://ndownloader.figshare.com/files/49987581#sub-31/eeg/sub-31_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-31/eeg/sub-31_task-low_eeg.vmrk",
+   "bytes": 4619,
+   "sha256": "3bef5cd83879da9ea934da542104ce57328b8364e583910bb833b194dd3939f7",
+   "subject": "31",
+   "url": "https://ndownloader.figshare.com/files/49987581#sub-31/eeg/sub-31_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-free_eeg.eeg",
+   "bytes": 113816384,
+   "sha256": "8322bb7fe1434c71d594717bcf7b90e8fac3d9faf4dc459df95ab3e5b1075297",
+   "subject": "32",
+   "url": "https://ndownloader.figshare.com/files/49987584#sub-32/eeg/sub-32_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-free_eeg.vmrk",
+   "bytes": 4595,
+   "sha256": "8840271970efedfabc4ee1142f93d74113392653263265cc3b7f4486f253468c",
+   "subject": "32",
+   "url": "https://ndownloader.figshare.com/files/49987584#sub-32/eeg/sub-32_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-high_eeg.eeg",
+   "bytes": 115584732,
+   "sha256": "cb819c5141f0f9d43bb49f08c689c69983c7890da1d3156cf769becbc017f23d",
+   "subject": "32",
+   "url": "https://ndownloader.figshare.com/files/49987584#sub-32/eeg/sub-32_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-high_eeg.vmrk",
+   "bytes": 4600,
+   "sha256": "18423f86a376b715f40e741a9e6c2b0aa4fcca418e5b6024e8a325a33eaef93e",
+   "subject": "32",
+   "url": "https://ndownloader.figshare.com/files/49987584#sub-32/eeg/sub-32_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-low_eeg.eeg",
+   "bytes": 112651032,
+   "sha256": "60db1013ff17f3d7aa6b1317a6f47e1c0177a72d9406ff613dac7b895ed05904",
+   "subject": "32",
+   "url": "https://ndownloader.figshare.com/files/49987584#sub-32/eeg/sub-32_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-32/eeg/sub-32_task-low_eeg.vmrk",
+   "bytes": 4593,
+   "sha256": "b939ed8d638a76dd49d8f279b44cb0c597b6c4c00319df186b2f0b33447b4d81",
+   "subject": "32",
+   "url": "https://ndownloader.figshare.com/files/49987584#sub-32/eeg/sub-32_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-free_eeg.eeg",
+   "bytes": 112173004,
+   "sha256": "caa32ec23beabfd0ea6e61a0d10215146f523f98522828c6ae44209eb7fb2cb1",
+   "subject": "33",
+   "url": "https://ndownloader.figshare.com/files/49987587#sub-33/eeg/sub-33_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-free_eeg.vmrk",
+   "bytes": 4596,
+   "sha256": "640c0a6a5f9364827fee83fb4d54b2bd1410db18027a39682948349d1182eaab",
+   "subject": "33",
+   "url": "https://ndownloader.figshare.com/files/49987587#sub-33/eeg/sub-33_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-high_eeg.eeg",
+   "bytes": 145464784,
+   "sha256": "1020a61e529ee1bdfa1b15e700b60c94b161a55cf37325736f7eec8a9d8ed8e1",
+   "subject": "33",
+   "url": "https://ndownloader.figshare.com/files/49987587#sub-33/eeg/sub-33_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-high_eeg.vmrk",
+   "bytes": 4625,
+   "sha256": "04f86b0ca8ad9dac7bc5e3418396483b2e4726da021ca7005e8a7645bd24e496",
+   "subject": "33",
+   "url": "https://ndownloader.figshare.com/files/49987587#sub-33/eeg/sub-33_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-low_eeg.eeg",
+   "bytes": 147162520,
+   "sha256": "e23b4d73f9439e36291ea33b99a9f6a3f29078db1fc64fdf24f2cabd311a73fb",
+   "subject": "33",
+   "url": "https://ndownloader.figshare.com/files/49987587#sub-33/eeg/sub-33_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-33/eeg/sub-33_task-low_eeg.vmrk",
+   "bytes": 4619,
+   "sha256": "ce8387b1e59aab63b8fead017163fc3c3f8a204a6d02e4b6d5ea5abe6e4c06f7",
+   "subject": "33",
+   "url": "https://ndownloader.figshare.com/files/49987587#sub-33/eeg/sub-33_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-free_eeg.eeg",
+   "bytes": 109350556,
+   "sha256": "a2fa79844b6dab7d1eddd2cad62065c816caa5be30b318cc24e42df42120f5b8",
+   "subject": "34",
+   "url": "https://ndownloader.figshare.com/files/49987599#sub-34/eeg/sub-34_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-free_eeg.vmrk",
+   "bytes": 4599,
+   "sha256": "b05e10a0fabaa9810b6500521774fd09c31bdb99f383925f988faaf6f33f30b7",
+   "subject": "34",
+   "url": "https://ndownloader.figshare.com/files/49987599#sub-34/eeg/sub-34_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-high_eeg.eeg",
+   "bytes": 125403356,
+   "sha256": "ac9f7f5e85e21c78689b5c8ab6d7dc52f22869ef7b805ea081095684c2880b07",
+   "subject": "34",
+   "url": "https://ndownloader.figshare.com/files/49987599#sub-34/eeg/sub-34_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-high_eeg.vmrk",
+   "bytes": 4613,
+   "sha256": "84d9ae7d1d96fb03c8ed802bd401ec4b1fca7898578f1ed50ff8879b5a1521c5",
+   "subject": "34",
+   "url": "https://ndownloader.figshare.com/files/49987599#sub-34/eeg/sub-34_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-low_eeg.eeg",
+   "bytes": 117893084,
+   "sha256": "349b4ec293efc02e5d947ca6032178df56099b7ceb4b2641bca1cbb2372b804b",
+   "subject": "34",
+   "url": "https://ndownloader.figshare.com/files/49987599#sub-34/eeg/sub-34_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-34/eeg/sub-34_task-low_eeg.vmrk",
+   "bytes": 4596,
+   "sha256": "6500f9d08c576ccdc1c82ff20bf33dfb8b15186a8d492821fdfa24f8547079a5",
+   "subject": "34",
+   "url": "https://ndownloader.figshare.com/files/49987599#sub-34/eeg/sub-34_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-free_eeg.eeg",
+   "bytes": 99162616,
+   "sha256": "1e7f842ee9e2fa8644251255bd7a01bf11fe6e88c4fd105725e736a8bab91a42",
+   "subject": "35",
+   "url": "https://ndownloader.figshare.com/files/49987605#sub-35/eeg/sub-35_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-free_eeg.vmrk",
+   "bytes": 4587,
+   "sha256": "f91743eaf4b5a73096a8049f63b2afca552e543a7dadaf15ceda0559a7d9a330",
+   "subject": "35",
+   "url": "https://ndownloader.figshare.com/files/49987605#sub-35/eeg/sub-35_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-high_eeg.eeg",
+   "bytes": 157684216,
+   "sha256": "60510a6ac38c7058918392c66265d2cda9d4766924b89cc9c7bd19567944e6fb",
+   "subject": "35",
+   "url": "https://ndownloader.figshare.com/files/49987605#sub-35/eeg/sub-35_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-high_eeg.vmrk",
+   "bytes": 4636,
+   "sha256": "e7e449584510cf7a0265c7ec9594587a1e2b17c929b7634f4d1a9567a9bba585",
+   "subject": "35",
+   "url": "https://ndownloader.figshare.com/files/49987605#sub-35/eeg/sub-35_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-low_eeg.eeg",
+   "bytes": 225351340,
+   "sha256": "08ddcfac42dc5a7fe34551c80845c9b814342fa94409f9febe15fd60753aa7ee",
+   "subject": "35",
+   "url": "https://ndownloader.figshare.com/files/49987605#sub-35/eeg/sub-35_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-35/eeg/sub-35_task-low_eeg.vmrk",
+   "bytes": 4601,
+   "sha256": "a972ae76722a8dc72670e6ca1f10a25d2e92cf570df66c0b66f42b3cf3ed4553",
+   "subject": "35",
+   "url": "https://ndownloader.figshare.com/files/49987605#sub-35/eeg/sub-35_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-free_eeg.eeg",
+   "bytes": 112856772,
+   "sha256": "8b68feb2223798fa9ba4240b6cd935d203b71badf4c038b0a5f32f25baa1c555",
+   "subject": "36",
+   "url": "https://ndownloader.figshare.com/files/49987608#sub-36/eeg/sub-36_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-free_eeg.vmrk",
+   "bytes": 4596,
+   "sha256": "fa9f58e1dfb44ff7a7654b2359ec8761677c19b498b3b64793a49fe18afa5392",
+   "subject": "36",
+   "url": "https://ndownloader.figshare.com/files/49987608#sub-36/eeg/sub-36_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-high_eeg.eeg",
+   "bytes": 112437164,
+   "sha256": "4cf332ac53563b6723ce41bfeb06c7551721ca9ffcfd6ea9b1fa9bc4edfd11fa",
+   "subject": "36",
+   "url": "https://ndownloader.figshare.com/files/49987608#sub-36/eeg/sub-36_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-high_eeg.vmrk",
+   "bytes": 4598,
+   "sha256": "fe5d80713a4e9a5d616d8ad3400583b59a780b8eed7d10cea027ed0fd90abda7",
+   "subject": "36",
+   "url": "https://ndownloader.figshare.com/files/49987608#sub-36/eeg/sub-36_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-low_eeg.eeg",
+   "bytes": 133928104,
+   "sha256": "ea0f4f32dafc1f28e73e2881b47f2b1798bd6c016d279a074053e6337c79208f",
+   "subject": "36",
+   "url": "https://ndownloader.figshare.com/files/49987608#sub-36/eeg/sub-36_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-36/eeg/sub-36_task-low_eeg.vmrk",
+   "bytes": 4621,
+   "sha256": "9c99e51fd5b1889dad8e28f71c004b0c76d75f6deb8433e115a436437a200792",
+   "subject": "36",
+   "url": "https://ndownloader.figshare.com/files/49987608#sub-36/eeg/sub-36_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-free_eeg.eeg",
+   "bytes": 101645720,
+   "sha256": "1b3befbbae5e6f5e09f09ad7744a52d461d669688edf31d40cfb52e0923ed2bd",
+   "subject": "37",
+   "url": "https://ndownloader.figshare.com/files/49987611#sub-37/eeg/sub-37_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-free_eeg.vmrk",
+   "bytes": 4587,
+   "sha256": "f8380505e74a171beb979cc7264f889916eee2d10c495676ae28554bbabb3fa3",
+   "subject": "37",
+   "url": "https://ndownloader.figshare.com/files/49987611#sub-37/eeg/sub-37_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-high_eeg.eeg",
+   "bytes": 155908756,
+   "sha256": "4f6fdc0e4cb61fa8539d7bae43d2a8a0887b9bd1b95fcb16282db9ec2ebc1178",
+   "subject": "37",
+   "url": "https://ndownloader.figshare.com/files/49987611#sub-37/eeg/sub-37_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-high_eeg.vmrk",
+   "bytes": 4622,
+   "sha256": "a6c319016288693fc6541917cdefe034553ef08cd45b1420d06c6f08bb7ed7a4",
+   "subject": "37",
+   "url": "https://ndownloader.figshare.com/files/49987611#sub-37/eeg/sub-37_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-low_eeg.eeg",
+   "bytes": 151048212,
+   "sha256": "c434aaf5975084751f69ba36beb8835eee73ad8854e88c3ba1c35d7345d81f9c",
+   "subject": "37",
+   "url": "https://ndownloader.figshare.com/files/49987611#sub-37/eeg/sub-37_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-37/eeg/sub-37_task-low_eeg.vmrk",
+   "bytes": 4627,
+   "sha256": "5ce38815aac24f6ec357fe0672b8636c34ea81f3753aab4eb0dc6703d5648321",
+   "subject": "37",
+   "url": "https://ndownloader.figshare.com/files/49987611#sub-37/eeg/sub-37_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-free_eeg.eeg",
+   "bytes": 109180376,
+   "sha256": "6d2723c85fe4d387f26fb1c121ec287f33456a726a71f9be332a373f12d67725",
+   "subject": "38",
+   "url": "https://ndownloader.figshare.com/files/49987614#sub-38/eeg/sub-38_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-free_eeg.vmrk",
+   "bytes": 4594,
+   "sha256": "84791bf83ce27f65551ecffa1fcc17a19575fb4b75cdfa47b73b9efe0db902f7",
+   "subject": "38",
+   "url": "https://ndownloader.figshare.com/files/49987614#sub-38/eeg/sub-38_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-high_eeg.eeg",
+   "bytes": 131422648,
+   "sha256": "30750a99f7875d5cf20a01ac22c90c9177e679cef32e89171c56fc97cec363d5",
+   "subject": "38",
+   "url": "https://ndownloader.figshare.com/files/49987614#sub-38/eeg/sub-38_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-high_eeg.vmrk",
+   "bytes": 4607,
+   "sha256": "b19cfe0e8bbb0366b56b5156a6dfb22e5eb36d78064aff0f02beb5d9e9970c0e",
+   "subject": "38",
+   "url": "https://ndownloader.figshare.com/files/49987614#sub-38/eeg/sub-38_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-low_eeg.eeg",
+   "bytes": 114343180,
+   "sha256": "6e213b80fce568a98330492137c28928476f6454cdc12fd1ce39b58473c2903c",
+   "subject": "38",
+   "url": "https://ndownloader.figshare.com/files/49987614#sub-38/eeg/sub-38_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-38/eeg/sub-38_task-low_eeg.vmrk",
+   "bytes": 4598,
+   "sha256": "00148fd85379ae1c387c75460917ae845fa84fbad902255f0e07e76912306899",
+   "subject": "38",
+   "url": "https://ndownloader.figshare.com/files/49987614#sub-38/eeg/sub-38_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-free_eeg.eeg",
+   "bytes": 116404136,
+   "sha256": "07e7d62b2bef1e3e44fc6d9d6edd4f73eea7f9678f9712e6c86c022daeadf41d",
+   "subject": "39",
+   "url": "https://ndownloader.figshare.com/files/49987617#sub-39/eeg/sub-39_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-free_eeg.vmrk",
+   "bytes": 4595,
+   "sha256": "0b7e1f83b97247457e4d35022d483e02a4c42e2c3fec2eac133d2dc4800f866b",
+   "subject": "39",
+   "url": "https://ndownloader.figshare.com/files/49987617#sub-39/eeg/sub-39_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-high_eeg.eeg",
+   "bytes": 134961884,
+   "sha256": "05df20d39c980a663eb0209e63a58f27656a82738b8f16647bc171008634226a",
+   "subject": "39",
+   "url": "https://ndownloader.figshare.com/files/49987617#sub-39/eeg/sub-39_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-high_eeg.vmrk",
+   "bytes": 4608,
+   "sha256": "56527865d626027907666046924d98d06b21b9c8d8aaf823c9bffcdd409d37fb",
+   "subject": "39",
+   "url": "https://ndownloader.figshare.com/files/49987617#sub-39/eeg/sub-39_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-low_eeg.eeg",
+   "bytes": 146990816,
+   "sha256": "26e16eceec24398b3c984fe1c1176a0cdc26c39bb0abc6db9813eda59199abf7",
+   "subject": "39",
+   "url": "https://ndownloader.figshare.com/files/49987617#sub-39/eeg/sub-39_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-39/eeg/sub-39_task-low_eeg.vmrk",
+   "bytes": 4620,
+   "sha256": "883ac76a72593dfc80e18740e5d7600577b40c8fcb190917899368a8d4336e78",
+   "subject": "39",
+   "url": "https://ndownloader.figshare.com/files/49987617#sub-39/eeg/sub-39_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-free_eeg.eeg",
+   "bytes": 106196384,
+   "sha256": "09696d3eacf22d525089e28a8c2fa9f5a050ed3510043babc0100dc59ae76d87",
+   "subject": "40",
+   "url": "https://ndownloader.figshare.com/files/49987632#sub-40/eeg/sub-40_task-free_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-free_eeg.vmrk",
+   "bytes": 4592,
+   "sha256": "1d2a8338cc17f51a34b8e7b99bb676a0b01184d8175abe5621d2a9d4b3e28de8",
+   "subject": "40",
+   "url": "https://ndownloader.figshare.com/files/49987632#sub-40/eeg/sub-40_task-free_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-high_eeg.eeg",
+   "bytes": 155411424,
+   "sha256": "c5d9ab78b202a00ee8ad2b86a2352b4d771c56b1585e5d717d94d8cb9e26330f",
+   "subject": "40",
+   "url": "https://ndownloader.figshare.com/files/49987632#sub-40/eeg/sub-40_task-high_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-high_eeg.vmrk",
+   "bytes": 4636,
+   "sha256": "c8e3d67fb546cb3946ff9fe5ea532cd160fb081afe0e95dbdcd3ac52f1436d17",
+   "subject": "40",
+   "url": "https://ndownloader.figshare.com/files/49987632#sub-40/eeg/sub-40_task-high_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-low_eeg.eeg",
+   "bytes": 157883860,
+   "sha256": "07f4210ff1f709dbdb57181dceeb1ae2a76a265dfb554e7eb92f4691b04b198d",
+   "subject": "40",
+   "url": "https://ndownloader.figshare.com/files/49987632#sub-40/eeg/sub-40_task-low_eeg.eeg",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  },
+  {
+   "file": "sub-40/eeg/sub-40_task-low_eeg.vmrk",
+   "bytes": 4635,
+   "sha256": "bb7cd030cdf9f2171f9324f2f40ebdd7be19512c391c2bff99c442b64d80ba70",
+   "subject": "40",
+   "url": "https://ndownloader.figshare.com/files/49987632#sub-40/eeg/sub-40_task-low_eeg.vmrk",
+   "how": "zip member, CRC-32 checked; zip md5 equal to figshare computed_md5 (cache)"
+  }
+ ],
+ "revisions": [
+  {
+   "date": "2026-10-16",
+   "version": "1.0.1",
+   "added_files": 237,
+   "added_bytes": 19483272778,
+   "note": "Added the BrainVision samples (.eeg) and markers (.vmrk) of the 117 already-deposited .vhdr headers (the original snapshot kept only the headers) and the root dataset_description.json, participants.tsv and README.txt that moabb.datasets.NeBULA2025 downloads next to each subject. Members of the figshare article 27301629 per-subject zips (sub-XX.zip; each zip md5 equal to figshare computed_md5, members CRC-32 checked); root files md5-checked against figshare. All 117 deposited headers equal their zip members. The EMG folder of the subject zips (sub-XX/emg/) is not read by the loader and is not added."
   }
  ]
 }
