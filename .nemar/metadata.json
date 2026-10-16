@@ -3,7 +3,7 @@
   "pipeline_stage": "validated",
   "title": "NeBULA2025: Standardized reaching motor-execution EEG dataset (NeBULA)",
   "description": "NeBULA2025 is a high-density EEG (127 channels) and surface EMG dataset recorded from 39 healthy adults performing a standardized right-arm reaching task toward one of three illuminated targets. The task was performed under three robotic assistance levels (free, low, high). The dataset supports neuromechanical biomarker research for upper limb assessment and is re-released in BIDS format via MOABB.",
-  "methods_description": "Seated participants reached with the right arm toward a target when a light turned on, then returned the hand to the right leg. EEG was recorded at 1000 Hz with a Brain Products actiCHamp 128-channel active electrode system (reference FCz, ground Fpz), together with 11 EMG channels. Each participant completed 3 runs of about 30 trials, covering three movement types and three assistance levels.",
+  "methods_description": "EEG was recorded at 1000 Hz with a Brain Products actiCHamp 128-channel active electrode system (reference FCz, ground Fpz) together with 11 EMG channels. Seated participants reached with the right arm toward a target when a light turned on, then returned the hand to the right leg. Each participant completed three runs of about 30 trials, one per assistance level.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -40,7 +40,7 @@
       "term": "upper limb"
     },
     {
-      "term": "robotic assistance"
+      "term": "biomarkers"
     },
     {
       "term": "Electroencephalography",
@@ -87,16 +87,19 @@
     "eeg"
   ],
   "sizes": [
-    "9.06 GB (236 files)"
+    "27.21 GB (470 files)"
   ],
   "formats": [
     ".edf",
+    ".eeg",
     ".json",
     ".md",
     ".tsv",
+    ".txt",
     ".vhdr",
+    ".vmrk",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "b09bf185ecb845dadf5c0ae0eaa58efca1094b5a9d495861fe7345ceff86554c"
+  "source_hash": "e0a2ee157f14539d0ab1af73b75eab97390e59aef27e18a4c1ea726035dfd901"
 }
